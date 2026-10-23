@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Consulta pública de contratos e itens contratados do Município de Teixeira de Freitas.">
+  <title>Contratos | Transparência</title>
+  <style>
+    :root{color-scheme:light;--ink:#14231d;--muted:#66756e;--green:#176b4b;--green2:#e7f2ec;--line:#dce5df;--paper:#f5f8f6;--white:#fff;--amber:#fff4d9;--shadow:0 10px 30px #193c2b12}
+    *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font:15px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+    .hero{background:linear-gradient(115deg,#0e4b35,#187251);color:white;padding:34px 22px 28px}.wrap{max-width:1180px;margin:auto}.eyebrow{font-size:.78rem;letter-spacing:.13em;text-transform:uppercase;opacity:.8;font-weight:700}.hero h1{margin:.25rem 0;font-size:clamp(1.7rem,4vw,2.45rem);line-height:1.15}.hero p{margin:.6rem 0 0;color:#e2f0e8;max-width:680px}
+    main{max-width:1180px;margin:24px auto;padding:0 18px 48px}.toolbar{display:grid;grid-template-columns:minmax(220px,1fr) 220px 190px;gap:12px;margin-bottom:16px}.control{width:100%;border:1px solid var(--line);border-radius:10px;background:white;padding:12px 13px;color:var(--ink);font:inherit}.control:focus{outline:3px solid #176b4b2c;border-color:var(--green)}
+    .status{display:flex;gap:10px;align-items:center;justify-content:space-between;margin:12px 2px;color:var(--muted);font-size:.92rem}.count{font-weight:700;color:var(--ink)}.notice{padding:16px 18px;background:var(--amber);border:1px solid #f1dfb2;border-radius:12px;margin:18px 0;color:#644d16}.contract-list{display:grid;gap:12px}
+    details.contract{background:white;border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);overflow:hidden}details.contract[open]{border-color:#b6d2c2}.contract summary{list-style:none;cursor:pointer;padding:17px 20px;display:grid;grid-template-columns:minmax(150px,1fr) auto;gap:14px;align-items:center}.contract summary::-webkit-details-marker{display:none}.contract summary:hover{background:#fbfdfb}.number{font-size:1.1rem;font-weight:800;color:var(--green)}.subtitle{color:var(--muted);font-size:.91rem;margin-top:2px}.sum-right{text-align:right}.value{font-weight:800;font-variant-numeric:tabular-nums}.chevron{color:var(--green);font-size:1.25rem;margin-left:8px}.body{border-top:1px solid var(--line);padding:18px 20px 20px}.grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px}.field{min-width:0}.label{font-size:.73rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);font-weight:750}.field .data{overflow-wrap:anywhere;margin-top:3px}.wide{grid-column:1/-1}.section-title{font-size:1rem;margin:22px 0 10px}.items{width:100%;border-collapse:collapse;border-radius:10px;overflow:hidden;font-size:.9rem}.items th,.items td{padding:10px 11px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}.items th{background:var(--green2);font-size:.76rem;text-transform:uppercase;letter-spacing:.04em;color:#24543e}.items td.num{text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}.empty-items{color:var(--muted);padding:12px;background:#f7faf8;border-radius:8px}.raw{margin-top:18px}.raw summary{display:block;padding:0;color:var(--green);font-weight:700}.raw pre{white-space:pre-wrap;overflow-wrap:anywhere;background:#f5f8f6;padding:14px;border-radius:8px;color:#34443b;font:13px/1.5 ui-monospace,monospace}.empty{padding:44px 18px;text-align:center;background:white;border:1px dashed #bdcec3;border-radius:14px;color:var(--muted)}footer{max-width:1180px;margin:0 auto;padding:0 18px 28px;color:var(--muted);font-size:.85rem}
+    .pagination{display:flex;justify-content:center;align-items:center;gap:12px;margin:20px 0}.pagination button{border:1px solid var(--line);border-radius:9px;background:#fff;padding:9px 14px;color:var(--ink);font:inherit;cursor:pointer}.pagination button:disabled{opacity:.45;cursor:default}.page-label{color:var(--muted);font-size:.9rem}
+    @media(max-width:760px){.toolbar{grid-template-columns:1fr 1fr}.toolbar input{grid-column:1/-1}.grid{grid-template-columns:repeat(2,minmax(0,1fr))}.contract summary{padding:15px}.body{padding:15px}.table-scroll{overflow-x:auto}.items{min-width:680px}}
+    @media(max-width:460px){.toolbar{grid-template-columns:1fr}.toolbar input{grid-column:auto}.grid{grid-template-columns:1fr}.contract summary{grid-template-columns:1fr auto}.sum-right{text-align:left;grid-column:1/-1;grid-row:2}.chevron{grid-column:2;grid-row:1}}
+  </style>
+</head>
+<body>
+  <header class="hero"><div class="wrap"><div class="eyebrow">Portal da Transparência</div><h1>Contratos públicos</h1><p>Consulte os contratos, fornecedores, vigência, valores e itens registrados pela Prefeitura Municipal de Teixeira de Freitas.</p></div></header>
+  <main>
+    <section class="toolbar" aria-label="Filtros de contratos">
+      <input id="search" class="control" type="search" placeholder="Buscar número, fornecedor, objeto…" aria-label="Buscar contratos">
+      <select id="year" class="control" aria-label="Filtrar por ano"><option value="">Todos os anos</option></select>
+      <select id="sort" class="control" aria-label="Ordenar contratos"><option value="date-desc">Mais recentes</option><option value="date-asc">Mais antigos</option><option value="value-desc">Maior valor</option><option value="number">Número do contrato</option></select>
+    </section>
+    <div class="status"><span id="message">Carregando contratos…</span><span id="count" class="count"></span></div>
+    <div id="app"></div>
+    <nav id="pagination" class="pagination" aria-label="Paginação dos contratos" hidden></nav>
+  </main>
+  <footer>Dados carregados de <code>dados/resultcontratos.json</code>. O arquivo atual contém a listagem resumida dos contratos; os itens só serão exibidos quando estiverem presentes no JSON.</footer>
+<script>
+(() => {
+  const DATA_URL = 'dados/resultcontratos.json';
+  const PAGE_SIZE = 50;
+  const $ = id => document.getElementById(id);
+  const app = $('app'), message = $('message'), count = $('count'), pagination = $('pagination');
+  let contracts = [], filteredContracts = [], currentPage = 1;
+  const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  const val = x => x == null || x === '' ? '—' : String(x);
+  const numeric = x => { const n = Number(String(x ?? '').replace(/\./g,'').replace(',','.').replace(/[^\d.-]/g,'')); return Number.isFinite(n) ? n : 0; };
+  const parseDate = x => { const m = String(x ?? '').match(/^(\d{2})\/(\d{2})\/(\d{4})$/); return m ? `${m[3]}-${m[2]}-${m[1]}` : ''; };
+  function normalizeContract(c){return {...c,numero:c.numero??c.NUMERO_CONTRATO??c.numero_contrato,licitacao:c.licitacao??c.LIC_NUMERO,data_assinatura:c.data_assinatura??c.DATA_CONTRATO,inicio_vigencia:c.inicio_vigencia??c.DATA_INICIO,fim_vigencia:c.fim_vigencia??c.DATA_TERMINO,orgao:c.orgao??c.ORG_NOME,tipo_contrato:c.tipo_contrato??c.TIPO_CONTRATO,contratado:c.contratado??c.CREDOR,documento_contratado:c.documento_contratado??c.DOCUMENTO,objeto:c.objeto??c.CTR_OBJETIVO,valor:c.valor??c.VALOR_CONTRATO,aditivos:c.aditivos??c['QT.Adt.'],situacao:c.situacao??c['Situação'],emergencial:c.emergencial??c.DESASTRE,chave_portal:c.chave_portal??c.CHAVE,itens:Array.isArray(c.itens)?c.itens:(Array.isArray(c.ITENS)?c.ITENS:[])};}
+  function field(label,value,wide=false){return `<div class="field${wide?' wide':''}"><div class="label">${esc(label)}</div><div class="data">${esc(val(value))}</div></div>`;}
+  function renderItem(item){
+    // Compatível com os itens estruturados pelo scraper e com linhas legadas em arrays.
+    if(Array.isArray(item)) item={descricao:item[1],quantidade:item[2],periodicidade:item[3],lote:item[4],valor_unitario:item[5],valor_total:item[6]};
+    return `<tr><td>${esc(val(item.descricao ?? item.item ?? item.produto))}</td><td class="num">${esc(val(item.quantidade))}</td><td>${esc(val(item.periodicidade))}</td><td>${esc(val(item.lote))}</td><td class="num">${esc(val(item.valor_unitario))}</td><td class="num">${esc(val(item.valor_total))}</td></tr>`;
+  }
+  function contractHtml(c){
+    const items = Array.isArray(c.itens) ? c.itens : [];
+    const title = c.numero || c.numero_contrato || 'Contrato sem número';
+    const searchText = [title,c.licitacao,c.contratado,c.objeto,c.orgao,c.tipo_contrato].join(' ').toLocaleLowerCase('pt-BR');
+    const extractionError = c.erro_detalhe || c.erro_extracao || c.erro_itens;
+    const itemsKnown = c.itens_disponiveis === true || items.length > 0;
+    const table = items.length ? `<div class="table-scroll"><table class="items"><thead><tr><th>Descrição do item</th><th>Quantidade</th><th>Periodicidade</th><th>Lote</th><th>Valor unitário</th><th>Valor total</th></tr></thead><tbody>${items.map(renderItem).join('')}</tbody></table></div>` : `<div class="empty-items">${extractionError ? `Falha ao coletar os dados deste contrato: ${esc(extractionError)}. Execute novamente o scraper para tentar completar este registro.` : itemsKnown ? 'A consulta dos itens foi concluída e não retornou itens.' : 'Este JSON contém apenas a listagem resumida dos contratos; os itens não estão disponíveis neste arquivo.'}</div>`;
+    const raw = c.detalhes_texto ? `<details class="raw"><summary>Ver texto integral da tela de detalhes</summary><pre>${esc(c.detalhes_texto)}</pre></details>` : '';
+    const props = [field('Número do contrato',title),field('Licitação',c.licitacao),field('Situação',c.situacao),field('Contratado',c.contratado),field('Documento',c.documento_contratado),field('Órgão',c.orgao),field('Assinatura',c.data_assinatura),field('Início da vigência',c.inicio_vigencia),field('Fim da vigência',c.fim_vigencia),field('Valor',c.valor),field('Tipo de contrato',c.tipo_contrato),field('Aditivos',c.aditivos),field('Emergencial',c.emergencial),field('Identificador no portal',c.chave_portal),field('Objeto',c.objeto,true)];
+    return `<details class="contract" data-search="${esc(searchText)}" data-date="${esc(parseDate(c.data_assinatura))}" data-value="${numeric(c.valor)}"><summary><div><div class="number">${esc(title)}</div><div class="subtitle">${esc(val(c.contratado))}${c.licitacao?' · Licitação '+esc(c.licitacao):''}</div></div><div class="sum-right"><span class="value">${esc(val(c.valor))}</span><span class="chevron" aria-hidden="true">⌄</span></div></summary><div class="body"><div class="grid">${props.join('')}</div><h2 class="section-title">${itemsKnown ? `Itens do contrato (${items.length})` : 'Itens do contrato'}</h2>${table}${raw}</div></details>`;
+  }
+  function renderPage(){
+    const totalPages=Math.max(1,Math.ceil(filteredContracts.length/PAGE_SIZE));
+    currentPage=Math.min(currentPage,totalPages);
+    const start=(currentPage-1)*PAGE_SIZE, pageRows=filteredContracts.slice(start,start+PAGE_SIZE);
+    count.textContent=filteredContracts.length?`${start+1}–${start+pageRows.length} de ${filteredContracts.length} contrato(s)`:'0 contrato(s)';
+    app.innerHTML=pageRows.length?`<div class="contract-list">${pageRows.map(contractHtml).join('')}</div>`:`<div class="empty">Nenhum contrato corresponde aos filtros.</div>`;
+    pagination.hidden=filteredContracts.length<=PAGE_SIZE;
+    pagination.innerHTML=filteredContracts.length>PAGE_SIZE?`<button type="button" data-page="${currentPage-1}" ${currentPage===1?'disabled':''}>Anterior</button><span class="page-label">Página ${currentPage} de ${totalPages}</span><button type="button" data-page="${currentPage+1}" ${currentPage===totalPages?'disabled':''}>Próxima</button>`:'';
+  }
+  function applyFilters(resetPage=true){
+    const query=$('search').value.trim().toLocaleLowerCase('pt-BR'), year=$('year').value, sort=$('sort').value;
+    let list=[...contracts].filter(c=>{
+      const text=[c.numero,c.licitacao,c.contratado,c.objeto,c.orgao,c.tipo_contrato].join(' ').toLocaleLowerCase('pt-BR');
+      const dt=parseDate(c.data_assinatura);
+      return (!query||text.includes(query))&&(!year||dt.startsWith(year+'-'));
+    });
+    list.sort((a,b)=>{
+      if(sort==='date-asc')return parseDate(a.data_assinatura).localeCompare(parseDate(b.data_assinatura));
+      if(sort==='value-desc')return numeric(b.valor)-numeric(a.valor);
+      if(sort==='number')return String(a.numero||'').localeCompare(String(b.numero||''),'pt-BR',{numeric:true});
+      return parseDate(b.data_assinatura).localeCompare(parseDate(a.data_assinatura));
+    });
+    filteredContracts=list;
+    if(resetPage)currentPage=1;
+    renderPage();
+  }
+  async function init(){
+    try{
+      const response=await fetch(DATA_URL,{cache:'no-store'});
+      if(!response.ok)throw new Error(`HTTP ${response.status} ao carregar ${DATA_URL}`);
+      // O portal pode fornecer JSON em Windows-1252. Tenta UTF-8 estrito e,
+      // se houver bytes inválidos, decodifica como Windows-1252 antes do parse.
+      const bytes=await response.arrayBuffer();
+      let jsonText;
+      try{jsonText=new TextDecoder('utf-8',{fatal:true}).decode(bytes);}
+      catch{jsonText=new TextDecoder('windows-1252').decode(bytes);}
+      const payload=JSON.parse(jsonText);
+      const sourceRows=Array.isArray(payload)?payload:(Array.isArray(payload.contratos)?payload.contratos:(Array.isArray(payload.data?.result)?payload.data.result:[]));
+      contracts=sourceRows.map(normalizeContract);
+      if(!contracts.length){message.textContent='O arquivo JSON foi carregado, mas não contém contratos.';applyFilters();return;}
+      const years=[...new Set(contracts.map(c=>parseDate(c.data_assinatura).slice(0,4)).filter(Boolean))].sort().reverse();
+      $('year').innerHTML='<option value="">Todos os anos</option>'+years.map(y=>`<option value="${esc(y)}">${esc(y)}</option>`).join('');
+      message.textContent=`${contracts.length.toLocaleString('pt-BR')} contratos carregados do JSON.`;applyFilters();
+    }catch(e){message.textContent='Não foi possível carregar os dados.';app.innerHTML=`<div class="notice"><strong>Erro ao abrir os contratos.</strong><br>${esc(e.message)}<br><br>Confirme se <code>dados/resultcontratos.json</code> existe junto com esta página e se ela está sendo servida por HTTP (por exemplo, GitHub Pages ou um servidor local).</div>`;count.textContent='';}
+  }
+  $('search').addEventListener('input',()=>applyFilters());$('year').addEventListener('change',()=>applyFilters());$('sort').addEventListener('change',()=>applyFilters());
+  pagination.addEventListener('click',event=>{const button=event.target.closest('button[data-page]');if(!button||button.disabled)return;currentPage=Number(button.dataset.page);renderPage();window.scrollTo({top:0,behavior:'smooth'});});
+  init();
+})();
+</script>
+</body>
+</html>
