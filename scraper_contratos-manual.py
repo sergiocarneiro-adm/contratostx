@@ -16,7 +16,7 @@ import hashlib
 import json
 import re
 import unicodedata
-from datetime import date, datetime, timedelta
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 from urllib.parse import parse_qs, urlparse
@@ -33,6 +33,7 @@ DAY_WINDOW = 10  # tamanho padrão; pode ser alterado com --window-days
 OVERLAP_DAYS = 20  # reconsulta a cauda para capturar correções e novos registros retroativos
 SCRIPT_VERSION = "2026-10-21-recuperacao-de-linhas"
 IGNORED_ORGAO = "CAMARA MUNICIPAL DE TEIXEIRA DE FREITAS"
+DIAGNOSTICS_DIR = Path(__file__).resolve().parent / "diagnosticos"
 
 
 def normalized_orgao(value: str | None) -> str:
@@ -109,16 +110,104 @@ async def web_frame(page: Page, require_contracts: bool = False) -> Frame:
 
 
 
+async def save_portal_access_diagnostic(page: Page, response: Any = None,
+                                        error: str | None = None) -> Path:
+    """Registra sinais observáveis do bloqueio/carregamento sem guardar dados da grade."""
+    headers: dict[str, str] = {}
+    status = None
+    response_url = None
+    if response is not None:
+        try:
+            status = response.status
+            response_url = response.url
+            all_headers = await response.all_headers()
+            for name in ("server", "cf-ray", "cf-mitigated", "cf-cache-status",
+                         "content-type", "location", "retry-after"):
+                if all_headers.get(name):
+                    headers[name] = all_headers[name]
+        except Exception as exc:
+            headers["diagnostico_resposta"] = f"não foi possível ler cabeçalhos: {exc}"
+
+    try:
+        title = await page.title()
+    except Exception:
+        title = ""
+    try:
+        body = (await page.locator("body").inner_text(timeout=2500)).strip()[:1800]
+    except Exception:
+        body = ""
+
+    try:
+        content = (title + "\n" + body).casefold()
+        frame_urls = [frame.url for frame in page.frames]
+    except Exception:
+        content = title.casefold()
+        frame_urls = []
+
+    cloudflare_signals = []
+    if "cloudflare" in content or "attention required" in content:
+        cloudflare_signals.append("título ou conteúdo identifica Cloudflare")
+    if headers.get("cf-ray"):
+        cloudflare_signals.append("cabeçalho cf-ray presente")
+    if headers.get("cf-mitigated", "").lower() == "challenge":
+        cloudflare_signals.append("cf-mitigated: challenge")
+    if "you have been blocked" in content or "security solution" in content:
+        cloudflare_signals.append("página informa bloqueio por solução de segurança")
+
+    if cloudflare_signals:
+        classification = "bloqueio/interceptação do Cloudflare antes da grade"
+        cause_limit = (
+            "O navegador consegue identificar a interceptação, mas não a regra específica. "
+            "O fornecedor do portal pode consultar o cf-ray nos registros do Cloudflare."
+        )
+    elif status is not None and status >= 400:
+        classification = f"resposta HTTP {status} antes da grade"
+        cause_limit = "O status, isoladamente, não identifica a regra ou causa no servidor."
+    else:
+        classification = "conteúdo esperado do portal não foi localizado"
+        cause_limit = "Verifique a resposta e o conteúdo abaixo; a causa não foi identificada como Cloudflare."
+
+    diagnostic = {
+        "registrado_em": datetime.now(timezone.utc).isoformat(),
+        "url_solicitada": CONTRACTS_URL,
+        "url_resposta": response_url,
+        "status_http": status,
+        "classificacao": classification,
+        "sinais_cloudflare": cloudflare_signals,
+        "cabecalhos_relevantes": headers,
+        "titulo": title,
+        "trecho_corpo": body,
+        "urls_frames": frame_urls,
+        "erro_playwright": error,
+        "limite_diagnostico": cause_limit,
+    }
+    DIAGNOSTICS_DIR.mkdir(parents=True, exist_ok=True)
+    output = DIAGNOSTICS_DIR / "portal_acesso.json"
+    output.write_text(json.dumps(diagnostic, ensure_ascii=False, indent=2) + "\n",
+                      encoding="utf-8")
+    print("Diagnóstico de acesso ao portal:", flush=True)
+    print(json.dumps(diagnostic, ensure_ascii=False, indent=2), flush=True)
+    print(f"Diagnóstico gravado em: {output}", flush=True)
+    return output
+
+
 async def open_contract_list(page: Page) -> Frame:
     # Rota interna pública do próprio link Contratos → Contratos. Abre a grade
     # diretamente e evita o menu de cards, cuja animação intercepta cliques.
-    await page.goto(CONTRACTS_URL, wait_until="domcontentloaded")
-    await page.wait_for_timeout(1400)
-    frame = await web_frame(page, require_contracts=True)
-    page_text = (await frame.locator("body").inner_text()).upper()
-    if "CONTRATOS" not in page_text or "REGISTRO" not in page_text:
-        raise RuntimeError("A página de contratos não abriu.")
-    return frame
+    response = None
+    try:
+        response = await page.goto(CONTRACTS_URL, wait_until="domcontentloaded")
+        await page.wait_for_timeout(1400)
+        frame = await web_frame(page, require_contracts=True)
+        page_text = (await frame.locator("body").inner_text()).upper()
+        if "CONTRATOS" not in page_text or "REGISTRO" not in page_text:
+            raise RuntimeError("A página carregou, mas não contém a grade esperada de contratos.")
+        return frame
+    except Exception as exc:
+        diagnostic_path = await save_portal_access_diagnostic(page, response, str(exc))
+        raise RuntimeError(
+            f"Falha ao abrir a listagem do portal. Diagnóstico salvo em {diagnostic_path}. {exc}"
+        ) from exc
 
 
 async def visible_inputs(frame: Frame):
