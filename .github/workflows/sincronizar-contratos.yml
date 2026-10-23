@@ -20,10 +20,10 @@ jobs:
       TZ: America/Bahia
     steps:
       - name: Baixar repositório
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Configurar Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.12"
           cache: pip
@@ -38,6 +38,15 @@ jobs:
 
       - name: Coletar contratos e itens em modo headless
         run: python sync_resultcontratos_diario.py
+
+      - name: Salvar diagnóstico de falha do portal
+        if: failure()
+        uses: actions/upload-artifact@v7
+        with:
+          name: diagnostico-portal-${{ github.run_id }}
+          path: diagnosticos/portal_acesso.json
+          if-no-files-found: ignore
+          retention-days: 7
 
       - name: Salvar JSON atualizado no repositório
         run: |
