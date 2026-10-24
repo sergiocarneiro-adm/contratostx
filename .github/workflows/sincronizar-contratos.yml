@@ -1,4 +1,4 @@
-name: Atualizar contratos e itens
+name: Sincronizar contratos
 
 on:
   schedule:
@@ -20,10 +20,10 @@ jobs:
       TZ: America/Bahia
     steps:
       - name: Baixar repositório
-        uses: actions/checkout@v7
+        uses: actions/checkout@v4
 
       - name: Configurar Python
-        uses: actions/setup-python@v7
+        uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: pip
@@ -36,26 +36,25 @@ jobs:
       - name: Instalar navegador Chromium do Playwright
         run: python -m playwright install --with-deps chromium
 
-      - name: Coletar contratos e itens em modo headless
-        run: python sync_resultcontratos_diario.py
+      - name: Calcular início dos últimos 10 dias
+        run: |
+          python - <<'PY' >> "$GITHUB_ENV"
+          from datetime import date, timedelta
+          print(f"START_DATE={(date.today() - timedelta(days=9)).isoformat()}")
+          PY
 
-      - name: Salvar diagnóstico de falha do portal
-        if: failure()
-        uses: actions/upload-artifact@v7
-        with:
-          name: diagnostico-portal-${{ github.run_id }}
-          path: diagnosticos/portal_acesso.json
-          if-no-files-found: ignore
-          retention-days: 7
+      - name: Coletar contratos em modo headless
+        run: python scraper_contratos.py --start "$START_DATE" --headless
 
       - name: Salvar JSON atualizado no repositório
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dados/resultcontratos.json
+          git add dados/contratos.json dados/checkpoint.json
           if git diff --cached --quiet; then
             echo "Nenhuma alteração nos dados."
           else
-            git commit -m "Atualiza contratos e itens da transparência"
+            git commit -m "Atualiza contratos da transparência"
             git push
           fi
+          
