@@ -5,3 +5,4 @@ __pycache__/
 git add dados/resultcontratos.json
 git commit -m "Atualiza dados dos contratos"
 git push origin main
+atualizar_contratos_e_enviar.bat
