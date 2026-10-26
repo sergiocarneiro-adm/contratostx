@@ -386464,6 +386464,1075 @@
       "itens_extraidos": true,
       "itens_quantidade": 1,
       "itens_atualizados_em": "2026-10-26T12:19:09-03:00"
+    },
+    {
+      "numero": "2-793-2026",
+      "numero_portal": "2-793-2026",
+      "chave_registro": "2-793-2026#e89d2f3ce81b",
+      "licitacao": "PE-013-2025",
+      "data_assinatura": "26/10/2026",
+      "inicio_vigencia": "27/10/2026",
+      "fim_vigencia": "27/10/2027",
+      "orgao": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "23 - Aquisição e fornecimento de bens de consumo",
+      "contratado": "EDSON MATERIAL DE CONSTRUCAO EIRELI",
+      "documento_contratado": "36.***.***/0001-**",
+      "objeto": "Registro de Preço para a contratação de empresa especializada no fornecimento de MANILHAS DE CONCRETO (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+      "valor": "11.620,00",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "2-793-2026",
+        "PE-013-2025",
+        "26/10/2026",
+        "27/10/2026",
+        "27/10/2027",
+        "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+        "23 - Aquisição e fornecimento de bens de consumo",
+        "EDSON MATERIAL DE CONSTRUCAO EIRELI",
+        "36.***.***/0001-**",
+        "Registro de Preço para a contratação de empresa especializada no fornecimento de MANILHAS DE CONCRETO (material de consumo), a fim de atender as demandas da Secretaria Municipal de Infraestrutura e Serviços Urbanos, conforme condições, quantidades e especificações no Edital, Termo de Referência e seus Anexos.",
+        "11.620,00",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nPREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nNão existem dados a serem exibidos\n\t\nAditivos\n \n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\n1\n\t\n10043015000000 - 2026\n\t\n \n\t\n0901 - SECRETARIA MUNICIPAL DE INFRAESTRUTURA E SERVIÇOS URBANOS - 2026\n\t\n1004 - EXECUÇÃO DE OBRAS DE URBANIZAÇÃO E SANEAMENTO BÁSICO EM VIAS PÚBLICAS\n\t\n3390300000 - Material de Consumo\n\t\n15000000 - Recursos não Vinculados de Impostos PM\n\t\n12.000,00\n\t\n0,00\nDotações\n \t \n \n ",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "5NqhjdQSLKl4NYoJGpK2",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "2-793-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "26/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "11.620,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "23 - Aquisição e fornecimento de bens de consumo",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "PE-013-2025",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "11.620,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "27/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "27/10/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "EDSON MATERIAL DE CONSTRUCAO EIRELI",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "36.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63758",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "2-793-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "42778",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63758",
+      "itens": [
+        {
+          "descricao": "34012 - MANILHA DE CONCRETO ARMADO CA1 DN/DI 60",
+          "quantidade": "35",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "332,0000",
+          "valor_total": "11.620,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n2-793-2026\n \n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\n1\n\t\n34012 - MANILHA DE CONCRETO ARMADO CA1 DN/DI 60\n\t\n35\n\t\n1\n\t\nS/L\n\t\n332,0000\n\t\n11.620,0000\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 1,
+      "itens_atualizados_em": "2026-10-26T17:23:39-03:00"
+    },
+    {
+      "numero": "4-791-2026",
+      "numero_portal": "4-791-2026",
+      "chave_registro": "4-791-2026#207eab599779",
+      "licitacao": "4-DLE-085-2026",
+      "data_assinatura": "26/10/2026",
+      "inicio_vigencia": "27/10/2026",
+      "fim_vigencia": "27/10/2027",
+      "orgao": "FUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "23 - Aquisição e fornecimento de bens de consumo",
+      "contratado": "TRAJO COMERCIO E SERVICOS LTDA",
+      "documento_contratado": "36.***.***/0001-**",
+      "objeto": "Contratação de empresa especializada em fornecimento de [MATERIAIS DE ARMARINHO] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Educação.",
+      "valor": "14.294,10",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "4-791-2026",
+        "4-DLE-085-2026",
+        "26/10/2026",
+        "27/10/2026",
+        "27/10/2027",
+        "FUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS",
+        "23 - Aquisição e fornecimento de bens de consumo",
+        "TRAJO COMERCIO E SERVICOS LTDA",
+        "36.***.***/0001-**",
+        "Contratação de empresa especializada em fornecimento de [MATERIAIS DE ARMARINHO] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Educação.",
+        "14.294,10",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nFUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nNão existem dados a serem exibidos\n\t\nAditivos\n \n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\n1\n\t\n20533015001001 - 2026\n\t\n \n\t\n1202 - FUNDO MUNICIPAL DE EDUCAÇÃO TEIXEIRA DE FREITAS - 2026\n\t\n2053 - MANUTENÇÃO DOS SERVIÇOS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO\n\t\n3390300000 - Material de Consumo\n\t\n15001001 - Recursos não Vinculados de Impostos - FME\n\t\n510.000,00\n\t\n0,00\n\n\n2\n\t\n20533015690000 - 2026\n\t\n \n\t\n1202 - FUNDO MUNICIPAL DE EDUCAÇÃO TEIXEIRA DE FREITAS - 2026\n\t\n2053 - MANUTENÇÃO DOS SERVIÇOS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO\n\t\n3390300000 - Material de Consumo\n\t\n15690000 - Outras Transferências de Recursos do FNDE\n\t\n0,00\n\t\n0,00\n\n\n3\n\t\n20533015500000 - 2026\n\t\n \n\t\n1202 - FUNDO MUNICIPAL DE EDUCAÇÃO TEIXEIRA DE FREITAS - 2026\n\t\n2053 - MANUTENÇÃO DOS SERVIÇOS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO\n\t\n3390300000 - Material de Consumo\n\t\n15500000 - Transferência do Salário-Educação\n\t\n0,00\n\t\n0,00\nDotações\n \t \n \n ",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "h0GEaSiOZRpB2IcTgfAH",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "FUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "4-791-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "26/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "14.294,10",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "FUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "23 - Aquisição e fornecimento de bens de consumo",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "4-DLE-085-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "14.294,10",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "27/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "27/10/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "TRAJO COMERCIO E SERVICOS LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "36.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63759",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "4-791-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43795",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63759",
+      "itens": [
+        {
+          "descricao": "9900515671 - Fita decorativa metalizada confeccionada em poliéster metalizado",
+          "quantidade": "120",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "14,1600",
+          "valor_total": "1.699,2000"
+        },
+        {
+          "descricao": "9900515676 - Sianinha confeccionada em poliéster",
+          "quantidade": "120",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "28,3300",
+          "valor_total": "3.399,6000"
+        },
+        {
+          "descricao": "9900515689 - Fivela reguladora confeccionada em plástico ABS",
+          "quantidade": "25",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "35,0600",
+          "valor_total": "876,5000"
+        },
+        {
+          "descricao": "9900515690 - Mosquetão giratório confeccionado em metal niquelado",
+          "quantidade": "20",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "70,0000",
+          "valor_total": "1.400,0000"
+        },
+        {
+          "descricao": "9900515694 - Miçanga confeccionada em plástico colorido, diâmetro 6 mm",
+          "quantidade": "100",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "45,2000",
+          "valor_total": "4.520,0000"
+        },
+        {
+          "descricao": "9900515704 - Agulha de costura manual confeccionada em aço niquelado",
+          "quantidade": "120",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "11,6600",
+          "valor_total": "1.399,2000"
+        },
+        {
+          "descricao": "9900515707 - Alfinete de segurança confeccionado em aço niquelado",
+          "quantidade": "60",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "16,6600",
+          "valor_total": "999,6000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n4-791-2026\n \n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\n1\n\t\n9900515671 - Fita decorativa metalizada confeccionada em poliéster metalizado\n\t\n120\n\t\n1\n\t\nS/L\n\t\n14,1600\n\t\n1.699,2000\n\n\n2\n\t\n9900515676 - Sianinha confeccionada em poliéster\n\t\n120\n\t\n1\n\t\nS/L\n\t\n28,3300\n\t\n3.399,6000\n\n\n3\n\t\n9900515689 - Fivela reguladora confeccionada em plástico ABS\n\t\n25\n\t\n1\n\t\nS/L\n\t\n35,0600\n\t\n876,5000\n\n\n4\n\t\n9900515690 - Mosquetão giratório confeccionado em metal niquelado\n\t\n20\n\t\n1\n\t\nS/L\n\t\n70,0000\n\t\n1.400,0000\n\n\n5\n\t\n9900515694 - Miçanga confeccionada em plástico colorido, diâmetro 6 mm\n\t\n100\n\t\n1\n\t\nS/L\n\t\n45,2000\n\t\n4.520,0000\n\n\n6\n\t\n9900515704 - Agulha de costura manual confeccionada em aço niquelado\n\t\n120\n\t\n1\n\t\nS/L\n\t\n11,6600\n\t\n1.399,2000\n\n\n7\n\t\n9900515707 - Alfinete de segurança confeccionado em aço niquelado\n\t\n60\n\t\n1\n\t\nS/L\n\t\n16,6600\n\t\n999,6000\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 7,
+      "itens_atualizados_em": "2026-10-26T17:23:43-03:00"
+    },
+    {
+      "numero": "4-792-2026",
+      "numero_portal": "4-792-2026",
+      "chave_registro": "4-792-2026#6165e56f80bd",
+      "licitacao": "4-DLE-085-2026",
+      "data_assinatura": "26/10/2026",
+      "inicio_vigencia": "27/10/2026",
+      "fim_vigencia": "27/10/2027",
+      "orgao": "FUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "23 - Aquisição e fornecimento de bens de consumo",
+      "contratado": "SIMONE KACIANO DE ARAUJO LTDA",
+      "documento_contratado": "11.***.***/0001-**",
+      "objeto": "Contratação de empresa especializada em fornecimento de [MATERIAIS DE ARMARINHO] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Educação.",
+      "valor": "9.828,16",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "4-792-2026",
+        "4-DLE-085-2026",
+        "26/10/2026",
+        "27/10/2026",
+        "27/10/2027",
+        "FUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS",
+        "23 - Aquisição e fornecimento de bens de consumo",
+        "SIMONE KACIANO DE ARAUJO LTDA",
+        "11.***.***/0001-**",
+        "Contratação de empresa especializada em fornecimento de [MATERIAIS DE ARMARINHO] (material de consumo), a fim de atender as necessidades da Secretaria Municipal de Educação.",
+        "9.828,16",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nFUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nNão existem dados a serem exibidos\n\t\nAditivos\n \n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\n1\n\t\n20533015001001 - 2026\n\t\n \n\t\n1202 - FUNDO MUNICIPAL DE EDUCAÇÃO TEIXEIRA DE FREITAS - 2026\n\t\n2053 - MANUTENÇÃO DOS SERVIÇOS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO\n\t\n3390300000 - Material de Consumo\n\t\n15001001 - Recursos não Vinculados de Impostos - FME\n\t\n510.000,00\n\t\n0,00\n\n\n2\n\t\n20533015690000 - 2026\n\t\n \n\t\n1202 - FUNDO MUNICIPAL DE EDUCAÇÃO TEIXEIRA DE FREITAS - 2026\n\t\n2053 - MANUTENÇÃO DOS SERVIÇOS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO\n\t\n3390300000 - Material de Consumo\n\t\n15690000 - Outras Transferências de Recursos do FNDE\n\t\n0,00\n\t\n0,00\n\n\n3\n\t\n20533015500000 - 2026\n\t\n \n\t\n1202 - FUNDO MUNICIPAL DE EDUCAÇÃO TEIXEIRA DE FREITAS - 2026\n\t\n2053 - MANUTENÇÃO DOS SERVIÇOS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO\n\t\n3390300000 - Material de Consumo\n\t\n15500000 - Transferência do Salário-Educação\n\t\n0,00\n\t\n0,00\nDotações\n \t \n \n ",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "l8j0utFh9iwwduzJpYHT",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "FUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "4-792-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "26/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "9.828,16",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "FUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "23 - Aquisição e fornecimento de bens de consumo",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "4-DLE-085-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "9.828,16",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "27/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "27/10/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "SIMONE KACIANO DE ARAUJO LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "11.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63763",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "4-792-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43795",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63763",
+      "itens": [
+        {
+          "descricao": "9900515657 - Linha encerada confeccionada em poliéster encerado",
+          "quantidade": "80",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "20,5000",
+          "valor_total": "1.640,0000"
+        },
+        {
+          "descricao": "9900515672 - Fita de organza transparente confeccionada em poliéster",
+          "quantidade": "120",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "21,9000",
+          "valor_total": "2.628,0000"
+        },
+        {
+          "descricao": "9900515680 - Vivo para acabamento confeccionado em poliéster",
+          "quantidade": "4",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "33,7400",
+          "valor_total": "134,9600"
+        },
+        {
+          "descricao": "9900515681 - Botão confeccionado em ABS",
+          "quantidade": "80",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "33,0000",
+          "valor_total": "2.640,0000"
+        },
+        {
+          "descricao": "37414 - Botão metálico confeccionado em liga metálica anticorrosiva",
+          "quantidade": "40",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "20,8800",
+          "valor_total": "835,2000"
+        },
+        {
+          "descricao": "9900515687 - Ilhós confeccionado em metal niquelado",
+          "quantidade": "50",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "39,0000",
+          "valor_total": "1.950,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n4-792-2026\n \n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\n1\n\t\n9900515657 - Linha encerada confeccionada em poliéster encerado\n\t\n80\n\t\n1\n\t\nS/L\n\t\n20,5000\n\t\n1.640,0000\n\n\n2\n\t\n9900515672 - Fita de organza transparente confeccionada em poliéster\n\t\n120\n\t\n1\n\t\nS/L\n\t\n21,9000\n\t\n2.628,0000\n\n\n3\n\t\n9900515680 - Vivo para acabamento confeccionado em poliéster\n\t\n4\n\t\n1\n\t\nS/L\n\t\n33,7400\n\t\n134,9600\n\n\n4\n\t\n9900515681 - Botão confeccionado em ABS\n\t\n80\n\t\n1\n\t\nS/L\n\t\n33,0000\n\t\n2.640,0000\n\n\n5\n\t\n37414 - Botão metálico confeccionado em liga metálica anticorrosiva\n\t\n40\n\t\n1\n\t\nS/L\n\t\n20,8800\n\t\n835,2000\n\n\n6\n\t\n9900515687 - Ilhós confeccionado em metal niquelado\n\t\n50\n\t\n1\n\t\nS/L\n\t\n39,0000\n\t\n1.950,0000\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 6,
+      "itens_atualizados_em": "2026-10-26T17:23:46-03:00"
     }
   ]
 }
