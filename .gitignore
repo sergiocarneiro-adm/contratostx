@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+git add dados/resultcontratos.json
+git commit -m "Atualiza dados dos contratos"
+git push origin main
