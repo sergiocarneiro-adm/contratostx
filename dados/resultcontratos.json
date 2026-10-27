@@ -387533,6 +387533,1697 @@
       "itens_extraidos": true,
       "itens_quantidade": 6,
       "itens_atualizados_em": "2026-10-26T17:23:46-03:00"
+    },
+    {
+      "numero": "3-798-2026",
+      "numero_portal": "3-798-2026",
+      "chave_registro": "3-798-2026#328e149c4b3d",
+      "licitacao": "PE-100-2026",
+      "data_assinatura": "27/10/2026",
+      "inicio_vigencia": "28/10/2026",
+      "fim_vigencia": "28/10/2027",
+      "orgao": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "24 - Compra de bens - móveis duráveis",
+      "contratado": "BHDENTAL COMERCIAL LTDA",
+      "documento_contratado": "29.***.***/0001-**",
+      "objeto": "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS ODONTOLÓGICOS E LABORATORIAIS (material permanente), a fim de atender as demandas da SecretariaMunicipal de Saúde.",
+      "valor": "105.000,00",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "3-798-2026",
+        "PE-100-2026",
+        "27/10/2026",
+        "28/10/2026",
+        "28/10/2027",
+        "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+        "24 - Compra de bens - móveis duráveis",
+        "BHDENTAL COMERCIAL LTDA",
+        "29.***.***/0001-**",
+        "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS ODONTOLÓGICOS E LABORATORIAIS (material permanente), a fim de atender as demandas da SecretariaMunicipal de Saúde.",
+        "105.000,00",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nFUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nNão existem dados a serem exibidos\n\t\nAditivos\n \n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\n1\n\t\n22075215001002 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2207 - MANUTENÇÃO DOS SERVIÇOS DO FUNDO MUNICIPAL DE SAÚDE\n\t\n4490520000 - Equipamentos e Material Permanente\n\t\n15001002 - Recursos não Vinculados de Impostos - FMS\n\t\n585.000,00\n\t\n0,00\n\n\n2\n\t\n22015215001002 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2201 - MANUTENÇÃO DAS AÇÕES DA ATENÇÃO PRIMÁRIA EM SAÚDE\n\t\n4490520000 - Equipamentos e Material Permanente\n\t\n15001002 - Recursos não Vinculados de Impostos - FMS\n\t\n325.000,00\n\t\n0,00\nDotações\n \t \n \n ",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "hHD917lMhbImTTEmuD2Y",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "3-798-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "27/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "105.000,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "24 - Compra de bens - móveis duráveis",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "PE-100-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "105.000,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "28/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "28/10/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "BHDENTAL COMERCIAL LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "29.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63729",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "3-798-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43766",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63729",
+      "itens": [
+        {
+          "descricao": "11400300007 - COMPRESSOR DE AR ODONTOLÓGICO SUPER SILENCIOSO",
+          "quantidade": "10",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "2.100,0000",
+          "valor_total": "21.000,0000"
+        },
+        {
+          "descricao": "9906900054 - Consultório odontológico completo",
+          "quantidade": "6",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "12.000,0000",
+          "valor_total": "72.000,0000"
+        },
+        {
+          "descricao": "37548 - Consultório odontológico completo:",
+          "quantidade": "1",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "12.000,0000",
+          "valor_total": "12.000,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n3-798-2026\n \n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\n1\n\t\n11400300007 - COMPRESSOR DE AR ODONTOLÓGICO SUPER SILENCIOSO\n\t\n10\n\t\n1\n\t\nS/L\n\t\n2.100,0000\n\t\n21.000,0000\n\n\n2\n\t\n9906900054 - Consultório odontológico completo\n\t\n6\n\t\n1\n\t\nS/L\n\t\n12.000,0000\n\t\n72.000,0000\n\n\n3\n\t\n37548 - Consultório odontológico completo:\n\t\n1\n\t\n1\n\t\nS/L\n\t\n12.000,0000\n\t\n12.000,0000\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 3,
+      "itens_atualizados_em": "2026-10-27T17:45:51-03:00"
+    },
+    {
+      "numero": "3-799-2026",
+      "numero_portal": "3-799-2026",
+      "chave_registro": "3-799-2026#58d5c2e3b519",
+      "licitacao": "PE-100-2026",
+      "data_assinatura": "27/10/2026",
+      "inicio_vigencia": "28/10/2026",
+      "fim_vigencia": "28/10/2027",
+      "orgao": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "24 - Compra de bens - móveis duráveis",
+      "contratado": "LC - COMERCIO DE EQUIPAMENTOS MEDICO HOSPITALAR LTDA",
+      "documento_contratado": "59.***.***/0001-**",
+      "objeto": "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS ODONTOLÓGICOS E LABORATORIAIS (material permanente), a fim de atender as demandas da SecretariaMunicipal de Saúde.",
+      "valor": "4.165,18",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "3-799-2026",
+        "PE-100-2026",
+        "27/10/2026",
+        "28/10/2026",
+        "28/10/2027",
+        "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+        "24 - Compra de bens - móveis duráveis",
+        "LC - COMERCIO DE EQUIPAMENTOS MEDICO HOSPITALAR LTDA",
+        "59.***.***/0001-**",
+        "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS ODONTOLÓGICOS E LABORATORIAIS (material permanente), a fim de atender as demandas da SecretariaMunicipal de Saúde.",
+        "4.165,18",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nFUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nNão existem dados a serem exibidos\n\t\nAditivos\n \n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\n1\n\t\n22075215001002 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2207 - MANUTENÇÃO DOS SERVIÇOS DO FUNDO MUNICIPAL DE SAÚDE\n\t\n4490520000 - Equipamentos e Material Permanente\n\t\n15001002 - Recursos não Vinculados de Impostos - FMS\n\t\n585.000,00\n\t\n0,00\n\n\n2\n\t\n22015215001002 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2201 - MANUTENÇÃO DAS AÇÕES DA ATENÇÃO PRIMÁRIA EM SAÚDE\n\t\n4490520000 - Equipamentos e Material Permanente\n\t\n15001002 - Recursos não Vinculados de Impostos - FMS\n\t\n325.000,00\n\t\n0,00\nDotações\n \t \n \n ",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "bYqYT0mUGRADvALaatWG",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "3-799-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "27/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "4.165,18",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "24 - Compra de bens - móveis duráveis",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "PE-100-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "4.165,18",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "28/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "28/10/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "LC - COMERCIO DE EQUIPAMENTOS MEDICO HOSPITALAR LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "59.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63730",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "3-799-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43766",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63730",
+      "itens": [
+        {
+          "descricao": "36530 - MOTOR DE BANCADA",
+          "quantidade": "1",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "786,0000",
+          "valor_total": "786,0000"
+        },
+        {
+          "descricao": "11400300011 - MOTOR ELÉTRICO PARA PRÓTESE",
+          "quantidade": "2",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "1.689,5900",
+          "valor_total": "3.379,1800"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n3-799-2026\n \n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\n1\n\t\n36530 - MOTOR DE BANCADA\n\t\n1\n\t\n1\n\t\nS/L\n\t\n786,0000\n\t\n786,0000\n\n\n2\n\t\n11400300011 - MOTOR ELÉTRICO PARA PRÓTESE\n\t\n2\n\t\n1\n\t\nS/L\n\t\n1.689,5900\n\t\n3.379,1800\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 2,
+      "itens_atualizados_em": "2026-10-27T17:45:54-03:00"
+    },
+    {
+      "numero": "3-801-2026",
+      "numero_portal": "3-801-2026",
+      "chave_registro": "3-801-2026#9417971d1f64",
+      "licitacao": "PE-143-2026",
+      "data_assinatura": "27/10/2026",
+      "inicio_vigencia": "28/10/2026",
+      "fim_vigencia": "28/10/2027",
+      "orgao": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "24 - Compra de bens - móveis duráveis",
+      "contratado": "ELO SCIENTIFIC INDUSTRIA E COMERCIO LTDA",
+      "documento_contratado": "44.***.***/0002-**",
+      "objeto": "Contratação de empresa especializada em fornecimento de REFRIGERADORES CIENTÍFICOS (material permanente), a fim de atender as demandas da SecretariaMunicipal de Saúde.",
+      "valor": "464.400,00",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "3-801-2026",
+        "PE-143-2026",
+        "27/10/2026",
+        "28/10/2026",
+        "28/10/2027",
+        "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+        "24 - Compra de bens - móveis duráveis",
+        "ELO SCIENTIFIC INDUSTRIA E COMERCIO LTDA",
+        "44.***.***/0002-**",
+        "Contratação de empresa especializada em fornecimento de REFRIGERADORES CIENTÍFICOS (material permanente), a fim de atender as demandas da SecretariaMunicipal de Saúde.",
+        "464.400,00",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nFUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nNão existem dados a serem exibidos\n\t\nAditivos\n \n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\n1\n\t\n22075215001002 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2207 - MANUTENÇÃO DOS SERVIÇOS DO FUNDO MUNICIPAL DE SAÚDE\n\t\n4490520000 - Equipamentos e Material Permanente\n\t\n15001002 - Recursos não Vinculados de Impostos - FMS\n\t\n585.000,00\n\t\n0,00\n\n\n2\n\t\n22015216000000 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2201 - MANUTENÇÃO DAS AÇÕES DA ATENÇÃO PRIMÁRIA EM SAÚDE\n\t\n4490520000 - Equipamentos e Material Permanente\n\t\n16000000 - Transf. de Recursos do SUS - Governo Federal - Bloco de Manutenção das ASPS\n\t\n0,00\n\t\n0,00\nDotações\n \t \n \n ",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "mLsMDSzBEKT1ERndMjES",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "3-801-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "27/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "464.400,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "24 - Compra de bens - móveis duráveis",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "PE-143-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "464.400,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "28/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "28/10/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "ELO SCIENTIFIC INDUSTRIA E COMERCIO LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "44.***.***/0002-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63738",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "3-801-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43815",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63738",
+      "itens": [
+        {
+          "descricao": "5707611202 - Refrigerador científico para conservação de vacinas e imunobiológicos",
+          "quantidade": "43",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "10.800,0000",
+          "valor_total": "464.400,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n3-801-2026\n \n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\n1\n\t\n5707611202 - Refrigerador científico para conservação de vacinas e imunobiológicos\n\t\n43\n\t\n1\n\t\nS/L\n\t\n10.800,0000\n\t\n464.400,0000\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 1,
+      "itens_atualizados_em": "2026-10-27T17:45:58-03:00"
+    },
+    {
+      "numero": "2-794-2026",
+      "numero_portal": "2-794-2026",
+      "chave_registro": "2-794-2026#0e6b30dbd449",
+      "licitacao": "PE-021-2025",
+      "data_assinatura": "27/10/2026",
+      "inicio_vigencia": "28/10/2026",
+      "fim_vigencia": "28/10/2027",
+      "orgao": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "24 - Compra de bens - móveis duráveis",
+      "contratado": "REGINA MARTE ANDRINO SADZINSKI",
+      "documento_contratado": "55.***.***/0001-**",
+      "objeto": "[SRP] - INSTALAÇÃO COM FORNECIMENTO DE EQUIPAMENTOS PARA ACADEMIA AO AR LIVRE EM AÇO INOX, A FIM DE ATENDER AS DEMANDAS DA SEC. MUN. DE ESPORTE E LAZER",
+      "valor": "87.000,00",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "2-794-2026",
+        "PE-021-2025",
+        "27/10/2026",
+        "28/10/2026",
+        "28/10/2027",
+        "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+        "24 - Compra de bens - móveis duráveis",
+        "REGINA MARTE ANDRINO SADZINSKI",
+        "55.***.***/0001-**",
+        "[SRP] - INSTALAÇÃO COM FORNECIMENTO DE EQUIPAMENTOS PARA ACADEMIA AO AR LIVRE EM AÇO INOX, A FIM DE ATENDER AS DEMANDAS DA SEC. MUN. DE ESPORTE E LAZER",
+        "87.000,00",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nPREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nNão existem dados a serem exibidos\n\t\nAditivos\n \n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\n1\n\t\n2022521500 - 2025\n\t\n \n\t\n110000 - SECRETARIA MUNICIPAL DE ESPORTE E LAZER - 2025\n\t\n2022 - GESTÃO DAS AÇÕES DA SECRETARIA MUNICIPAL DE ESPORTE E LAZER\n\t\n4490520000 - Equipamentos e Material Permanente\n\t\n1500 - Recursos não Vinculados de Impostos PM\n\t\n120.000,00\n\t\n0,00\n\n\n2\n\t\n20225215000000 - 2026\n\t\n \n\t\n1301 - SECRETARIA MUNICIPAL DE ESPORTE E LAZER - 2026\n\t\n2022 - MANUTENÇÃO DOS SERVIÇOS DA SEC. MUNICIPAL DE ESPORTE E LAZER\n\t\n4490520000 - Equipamentos e Material Permanente\n\t\n15000000 - Recursos não Vinculados de Impostos PM\n\t\n141.000,00\n\t\n0,00\nDotações\n \t \n \n ",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "JyxLC7z2EvMzqYH3T9zH",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "2-794-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "27/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "87.000,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "24 - Compra de bens - móveis duráveis",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "PE-021-2025",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "87.000,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "28/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "28/10/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "27/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIIO OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "REGINA MARTE ANDRINO SADZINSKI",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "55.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63764",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "2-794-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "42894",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63764",
+      "itens": [
+        {
+          "descricao": "9900830002 - ADUÇÃO ABDUÇÃO DE PERNAS DUPLO INOX",
+          "quantidade": "2",
+          "periodicidade": "1",
+          "lote": "1",
+          "valor_unitario": "5.000,0000",
+          "valor_total": "10.000,0000"
+        },
+        {
+          "descricao": "9900830003 - ALONGFLEX INOX",
+          "quantidade": "2",
+          "periodicidade": "1",
+          "lote": "1",
+          "valor_unitario": "5.000,0000",
+          "valor_total": "10.000,0000"
+        },
+        {
+          "descricao": "9900830004 - BICICLETA TRIPLA INOX",
+          "quantidade": "2",
+          "periodicidade": "1",
+          "lote": "1",
+          "valor_unitario": "8.000,0000",
+          "valor_total": "16.000,0000"
+        },
+        {
+          "descricao": "33646 - EXERCITADOR DE PERNAS COM PRANCHA LATERAL INOX",
+          "quantidade": "3",
+          "periodicidade": "1",
+          "lote": "1",
+          "valor_unitario": "7.000,0000",
+          "valor_total": "21.000,0000"
+        },
+        {
+          "descricao": "9900830005 - ELÍPTICO TRIPLO INOX",
+          "quantidade": "2",
+          "periodicidade": "1",
+          "lote": "1",
+          "valor_unitario": "15.000,0000",
+          "valor_total": "30.000,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n2-794-2026\n \n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\n1\n\t\n9900830002 - ADUÇÃO ABDUÇÃO DE PERNAS DUPLO INOX\n\t\n2\n\t\n1\n\t\n1\n\t\n5.000,0000\n\t\n10.000,0000\n\n\n2\n\t\n9900830003 - ALONGFLEX INOX\n\t\n2\n\t\n1\n\t\n1\n\t\n5.000,0000\n\t\n10.000,0000\n\n\n3\n\t\n9900830004 - BICICLETA TRIPLA INOX\n\t\n2\n\t\n1\n\t\n1\n\t\n8.000,0000\n\t\n16.000,0000\n\n\n4\n\t\n33646 - EXERCITADOR DE PERNAS COM PRANCHA LATERAL INOX\n\t\n3\n\t\n1\n\t\n1\n\t\n7.000,0000\n\t\n21.000,0000\n\n\n5\n\t\n9900830005 - ELÍPTICO TRIPLO INOX\n\t\n2\n\t\n1\n\t\n1\n\t\n15.000,0000\n\t\n30.000,0000\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 5,
+      "itens_atualizados_em": "2026-10-27T17:46:01-03:00"
+    },
+    {
+      "numero": "4-797-2026",
+      "numero_portal": "4-797-2026",
+      "chave_registro": "4-797-2026#dc405fd4549b",
+      "licitacao": "PE-140-2026",
+      "data_assinatura": "27/10/2026",
+      "inicio_vigencia": "28/10/2026",
+      "fim_vigencia": "28/10/2027",
+      "orgao": "FUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "14 - Prestação de serviços",
+      "contratado": "METRÓPOLE SOLUÇÕES GOVERNAMENTAIS LTDA",
+      "documento_contratado": "07.***.***/0001-**",
+      "objeto": "Contratação de empresa especializada em prestação de serviços de REALIZAÇÃO DE PROCESSO SELETIVO PARA DIRETORES E VICE-DIRETORES, a fim de atender as demandas da Secretaria Municipal de Educação.",
+      "valor": "45.000,00",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "4-797-2026",
+        "PE-140-2026",
+        "27/10/2026",
+        "28/10/2026",
+        "28/10/2027",
+        "FUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS",
+        "14 - Prestação de serviços",
+        "METRÓPOLE SOLUÇÕES GOVERNAMENTAIS LTDA",
+        "07.***.***/0001-**",
+        "Contratação de empresa especializada em prestação de serviços de REALIZAÇÃO DE PROCESSO SELETIVO PARA DIRETORES E VICE-DIRETORES, a fim de atender as demandas da Secretaria Municipal de Educação.",
+        "45.000,00",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nFUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nNão existem dados a serem exibidos\n\t\nAditivos\n \n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\n1\n\t\n20533915001001 - 2026\n\t\n \n\t\n1202 - FUNDO MUNICIPAL DE EDUCAÇÃO TEIXEIRA DE FREITAS - 2026\n\t\n2053 - MANUTENÇÃO DOS SERVIÇOS DA SECRETARIA MUNICIPAL DE EDUCAÇÃO\n\t\n3390390000 - Outros Serviços de Terceiros - Pessoa Jurídica\n\t\n15001001 - Recursos não Vinculados de Impostos - FME\n\t\n5.416.000,00\n\t\n0,00\nDotações\n \t \n \n ",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "n8ZGW4VuDlHN2SteKixI",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "FUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "4-797-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "27/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "45.000,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "FUNDO MUN. DE EDUCAÇÃO DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "14 - Prestação de serviços",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "PE-140-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "45.000,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "28/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "28/10/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "METRÓPOLE SOLUÇÕES GOVERNAMENTAIS LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "07.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63765",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "4-797-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43827",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63765",
+      "itens": [
+        {
+          "descricao": "37787 - Serviços técnicos especializados de planejamento, organização, coordenação, operacionalização e realização do processo seletivo",
+          "quantidade": "1",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "45.000,0000",
+          "valor_total": "45.000,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n4-797-2026\n \n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\n1\n\t\n37787 - Serviços técnicos especializados de planejamento, organização, coordenação, operacionalização e realização do processo seletivo\n\t\n1\n\t\n1\n\t\nS/L\n\t\n45.000,0000\n\t\n45.000,0000\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 1,
+      "itens_atualizados_em": "2026-10-27T17:46:04-03:00"
     }
   ]
 }
