@@ -241,18 +241,36 @@ async def run(args) -> None:
         if isinstance(record, dict) and record.get("numero"):
             lookup.setdefault(identity(record), index)
 
-    print("Abrindo a listagem atual do portal; nenhum filtro de data será aplicado.", flush=True)
+    if args.manual_datas:
+        print(
+            "Modo de seleção manual ativado: o navegador ficará aberto para você "
+            "definir as datas e aplicar os filtros no portal.",
+            flush=True,
+        )
+    else:
+        print("Abrindo a listagem atual do portal; nenhum filtro de data será aplicado.", flush=True)
     added = updated = skipped = ignored = pending = 0
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=not args.headed)
+        # A seleção manual exige o navegador visível, mesmo sem --headed.
+        browser = await p.chromium.launch(headless=not (args.headed or args.manual_datas))
         context = await browser.new_context(viewport={"width": 1500, "height": 950})
         page = await context.new_page()
         try:
             await scraper.open_contract_list(page)
-            # A tela de contratos já abre na listagem recente. Mantemos o filtro
-            # padrão do portal para conferir a grade e percorrê-la por inteiro.
-            print("Aguardando o carregamento da grade de contratos...", flush=True)
+            if args.manual_datas:
+                print(
+                    "\\nNo navegador, selecione a data inicial e a data final, "
+                    "aplique/pesquise o filtro no portal e confira a grade.\\n"
+                    "Quando a listagem estiver pronta, volte a este terminal e pressione ENTER "
+                    "para iniciar a extração...",
+                    flush=True,
+                )
+                await asyncio.to_thread(input)
+            else:
+                # Mantém o comportamento automático: utiliza a listagem padrão do portal.
+                print("Aguardando o carregamento da grade de contratos...", flush=True)
+
             frame = await wait_for_populated_grid(page, scraper)
             rows = await scraper.contract_rows(frame, page)
             if not rows:
@@ -379,6 +397,11 @@ if __name__ == "__main__":
     parser.add_argument("--lookback-days", type=positive_int, default=None,
                         help="opção antiga aceita por compatibilidade; não filtra a grade do portal")
     parser.add_argument("--headed", action="store_true", help="abre o navegador visível para depuração")
+    parser.add_argument(
+        "--manual-datas",
+        action="store_true",
+        help="abre o navegador visível e aguarda a seleção/aplicação manual do período antes da extração",
+    )
     parsed_args = parser.parse_args()
     if parsed_args.lookback_days is not None:
         print("Aviso: --lookback-days não altera a consulta; será usada a grade atual do portal.", flush=True)
