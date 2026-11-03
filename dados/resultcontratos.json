@@ -389224,6 +389224,2678 @@
       "itens_extraidos": true,
       "itens_quantidade": 1,
       "itens_atualizados_em": "2026-10-27T17:46:04-03:00"
+    },
+    {
+      "numero": "2-804-2026",
+      "numero_portal": "2-804-2026",
+      "chave_registro": "2-804-2026#1df5ff490fe3",
+      "licitacao": "2-IL-163-2026",
+      "data_assinatura": "29/10/2026",
+      "inicio_vigencia": "02/11/2026",
+      "fim_vigencia": "02/11/2027",
+      "orgao": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "09 - Locação de bens imóveis",
+      "contratado": "GLICERIO ANTONIO DOS SANTOS ALVES",
+      "documento_contratado": "***.***.006-**",
+      "objeto": "LOCAÇÃO DE IMÓVEL localizado na rua Gov. Leo Ferreira, nº 115, Casa, Jardim Caraípe, Teixeira De Freitas Ba, para a REINSTALAÇÃO DO GABINETE DO PREFEITO. Processo Administrativo SD-1168/2026.",
+      "valor": "96.000,00",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "2-804-2026",
+        "2-IL-163-2026",
+        "29/10/2026",
+        "02/11/2026",
+        "02/11/2027",
+        "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+        "09 - Locação de bens imóveis",
+        "GLICERIO ANTONIO DOS SANTOS ALVES",
+        "***.***.006-**",
+        "LOCAÇÃO DE IMÓVEL localizado na rua Gov. Leo Ferreira, nº 115, Casa, Jardim Caraípe, Teixeira De Freitas Ba, para a REINSTALAÇÃO DO GABINETE DO PREFEITO. Processo Administrativo SD-1168/2026.",
+        "96.000,00",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nPREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \nNão existem dados a serem exibidos\n\t\n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nAditivos\n \n1\n\t\n20033615000000 - 2026\n\t\n \n\t\n0201 - GABINETE DO PREFEITO - 2026\n\t\n2003 - MANUTENÇÃO DE AÇÕES DO GABINETE DO PREFEITO\n\t\n3390360000 - Outros Serviços de Terceiros - Pessoa Física\n\t\n15000000 - Recursos não Vinculados de Impostos PM\n\t\n35.000,00\n\t\n0,00\n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\nDotações\n \t \n \n ",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "rjrToHgZsrGCU1o4YHZ0",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "2-804-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "29/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "96.000,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "09 - Locação de bens imóveis",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "2-IL-163-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "96.000,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "02/11/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "02/11/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "GLICERIO ANTONIO DOS SANTOS ALVES",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "***.***.006-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63767",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "2-804-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CPF:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43853",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63767",
+      "itens": [
+        {
+          "descricao": "9909910126 - ALUGUEL DE IMOVEL.",
+          "quantidade": "12",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "8.000,0000",
+          "valor_total": "96.000,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n2-804-2026\n \n1\n\t\n9909910126 - ALUGUEL DE IMOVEL.\n\t\n12\n\t\n1\n\t\nS/L\n\t\n8.000,0000\n\t\n96.000,0000\n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 1,
+      "itens_atualizados_em": "2026-11-03T11:42:54-03:00"
+    },
+    {
+      "numero": "2-805-2026",
+      "numero_portal": "2-805-2026",
+      "chave_registro": "2-805-2026#238cee6c9b74",
+      "licitacao": "2-IL-167-2026",
+      "data_assinatura": "29/10/2026",
+      "inicio_vigencia": "29/10/2026",
+      "fim_vigencia": "29/12/2026",
+      "orgao": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "14 - Prestação de serviços",
+      "contratado": "MARIA DEL PILAR CHACALTANA CHANGO",
+      "documento_contratado": "23.***.***/0001-**",
+      "objeto": "CREDENCIAMENTO de pessoas jurídicas para a prestação de serviços artístico-culturais à Secretaria Municipal de Cultura e Turismo, especialmente no âmbito do Ciclo 2 da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB). 23.594.729 MARIA DEL PILAR CHACALTANA CHANGO (MAGIC CIRCO), CNPJ 61.295.927/0001-90",
+      "valor": "9.324,84",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "2-805-2026",
+        "2-IL-167-2026",
+        "29/10/2026",
+        "29/10/2026",
+        "29/12/2026",
+        "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+        "14 - Prestação de serviços",
+        "MARIA DEL PILAR CHACALTANA CHANGO",
+        "23.***.***/0001-**",
+        "CREDENCIAMENTO de pessoas jurídicas para a prestação de serviços artístico-culturais à Secretaria Municipal de Cultura e Turismo, especialmente no âmbito do Ciclo 2 da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB). 23.594.729 MARIA DEL PILAR CHACALTANA CHANGO (MAGIC CIRCO), CNPJ 61.295.927/0001-90",
+        "9.324,84",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nPREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \nNão existem dados a serem exibidos\n\t\n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nAditivos\n \n1\n\t\n20523917190000 - 2026\n\t\n \n\t\n1802 - FUNDO MUNICIPAL DE CULTURA - 2026\n\t\n2052 - MANUTENÇÃO DAS ATIVIDADES CULTURAIS E TRADICIONAIS DO MUNICÍPIO\n\t\n3390390000 - Outros Serviços de Terceiros - Pessoa Jurídica\n\t\n17190000 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022\n\t\n637.000,00\n\t\n0,00\n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\nDotações\n \t \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "6QzxhxUQ3sncdkCkH4Yj",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "2-805-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "29/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "9.324,84",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "14 - Prestação de serviços",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "2-IL-167-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "9.324,84",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "29/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "29/12/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "2",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "MARIA DEL PILAR CHACALTANA CHANGO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "23.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63774",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "2-805-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43856",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63774",
+      "itens": [
+        {
+          "descricao": "100200483 - Grupo Cultural II (Médio Porte)",
+          "quantidade": "3",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "3.108,2800",
+          "valor_total": "9.324,8400"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n2-805-2026\n \n1\n\t\n100200483 - Grupo Cultural II (Médio Porte)\n\t\n3\n\t\n1\n\t\nS/L\n\t\n3.108,2800\n\t\n9.324,8400\n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 1,
+      "itens_atualizados_em": "2026-11-03T11:42:58-03:00"
+    },
+    {
+      "numero": "2-806-2026",
+      "numero_portal": "2-806-2026",
+      "chave_registro": "2-806-2026#b0fa01747d9c",
+      "licitacao": "2-IL-168-2026",
+      "data_assinatura": "29/10/2026",
+      "inicio_vigencia": "29/10/2026",
+      "fim_vigencia": "29/12/2026",
+      "orgao": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "14 - Prestação de serviços",
+      "contratado": "65.506.609 ANDERSON MENDES DA SILVA",
+      "documento_contratado": "65.***.***/0001-**",
+      "objeto": "CREDENCIAMENTO de pessoas jurídicas para a prestação de serviços artístico-culturais à Secretaria Municipal de Cultura e Turismo, especialmente no âmbito do Ciclo 2 da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB). 65.506.609 ANDERSON MENDES DA SILVA, CNPJ 65.506.609/0001-82",
+      "valor": "11.025,00",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "2-806-2026",
+        "2-IL-168-2026",
+        "29/10/2026",
+        "29/10/2026",
+        "29/12/2026",
+        "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+        "14 - Prestação de serviços",
+        "65.506.609 ANDERSON MENDES DA SILVA",
+        "65.***.***/0001-**",
+        "CREDENCIAMENTO de pessoas jurídicas para a prestação de serviços artístico-culturais à Secretaria Municipal de Cultura e Turismo, especialmente no âmbito do Ciclo 2 da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB). 65.506.609 ANDERSON MENDES DA SILVA, CNPJ 65.506.609/0001-82",
+        "11.025,00",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nPREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \nNão existem dados a serem exibidos\n\t\n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nAditivos\n \n1\n\t\n20523917190000 - 2026\n\t\n \n\t\n1802 - FUNDO MUNICIPAL DE CULTURA - 2026\n\t\n2052 - MANUTENÇÃO DAS ATIVIDADES CULTURAIS E TRADICIONAIS DO MUNICÍPIO\n\t\n3390390000 - Outros Serviços de Terceiros - Pessoa Jurídica\n\t\n17190000 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022\n\t\n637.000,00\n\t\n0,00\n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\nDotações\n \t \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "m6IaPv5O8a1zBFK3khb3",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "2-806-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "29/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "11.025,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "14 - Prestação de serviços",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "2-IL-168-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "11.025,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "29/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "29/12/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "2",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "65.506.609 ANDERSON MENDES DA SILVA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "65.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63775",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "2-806-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43857",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63775",
+      "itens": [
+        {
+          "descricao": "100200486 - Apresentação com 4 Pessoas no Palco (Quarteto)",
+          "quantidade": "3",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "3.675,0000",
+          "valor_total": "11.025,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n2-806-2026\n \n1\n\t\n100200486 - Apresentação com 4 Pessoas no Palco (Quarteto)\n\t\n3\n\t\n1\n\t\nS/L\n\t\n3.675,0000\n\t\n11.025,0000\n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 1,
+      "itens_atualizados_em": "2026-11-03T11:43:01-03:00"
+    },
+    {
+      "numero": "2-808-2026",
+      "numero_portal": "2-808-2026",
+      "chave_registro": "2-808-2026#71951ac8e77e",
+      "licitacao": "2-IL-169-2026",
+      "data_assinatura": "29/10/2026",
+      "inicio_vigencia": "29/10/2026",
+      "fim_vigencia": "29/12/2026",
+      "orgao": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "14 - Prestação de serviços",
+      "contratado": "63.877.985 RUBERVAL DA SILVA BALIEIRO",
+      "documento_contratado": "63.***.***/0001-**",
+      "objeto": "CREDENCIAMENTO de pessoas jurídicas para a prestação de serviços artístico-culturais à Secretaria Municipal de Cultura e Turismo, especialmente no âmbito do Ciclo 2 da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB). 63.877.985 RUBERVAL DA SILVA BALIEIRO, CNPJ 63.877.985/0001-58",
+      "valor": "19.500,00",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "2-808-2026",
+        "2-IL-169-2026",
+        "29/10/2026",
+        "29/10/2026",
+        "29/12/2026",
+        "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+        "14 - Prestação de serviços",
+        "63.877.985 RUBERVAL DA SILVA BALIEIRO",
+        "63.***.***/0001-**",
+        "CREDENCIAMENTO de pessoas jurídicas para a prestação de serviços artístico-culturais à Secretaria Municipal de Cultura e Turismo, especialmente no âmbito do Ciclo 2 da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB). 63.877.985 RUBERVAL DA SILVA BALIEIRO, CNPJ 63.877.985/0001-58",
+        "19.500,00",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nPREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \nNão existem dados a serem exibidos\n\t\n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nAditivos\n \n1\n\t\n20523917190000 - 2026\n\t\n \n\t\n1802 - FUNDO MUNICIPAL DE CULTURA - 2026\n\t\n2052 - MANUTENÇÃO DAS ATIVIDADES CULTURAIS E TRADICIONAIS DO MUNICÍPIO\n\t\n3390390000 - Outros Serviços de Terceiros - Pessoa Jurídica\n\t\n17190000 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022\n\t\n637.000,00\n\t\n0,00\n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\nDotações\n \t \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "HctiyZR59QlHRd4u7xLc",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "2-808-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "29/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "19.500,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "14 - Prestação de serviços",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "2-IL-169-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "19.500,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "29/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "29/12/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "2",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "29/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "63.877.985 RUBERVAL DA SILVA BALIEIRO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "63.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63776",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "2-808-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43858",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63776",
+      "itens": [
+        {
+          "descricao": "100200485 - Banda de Grande Porte (Mínimo de 7 Integrantes) com Corpo de Baile",
+          "quantidade": "3",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "6.500,0000",
+          "valor_total": "19.500,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n2-808-2026\n \n1\n\t\n100200485 - Banda de Grande Porte (Mínimo de 7 Integrantes) com Corpo de Baile\n\t\n3\n\t\n1\n\t\nS/L\n\t\n6.500,0000\n\t\n19.500,0000\n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 1,
+      "itens_atualizados_em": "2026-11-03T11:43:04-03:00"
+    },
+    {
+      "numero": "2-807-2026",
+      "numero_portal": "2-807-2026",
+      "chave_registro": "2-807-2026#a40bd68178d9",
+      "licitacao": "2-IL-170-2026",
+      "data_assinatura": "29/10/2026",
+      "inicio_vigencia": "29/10/2026",
+      "fim_vigencia": "29/12/2026",
+      "orgao": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "14 - Prestação de serviços",
+      "contratado": "2X SOLUÇÕES LTDA",
+      "documento_contratado": "61.***.***/0001-**",
+      "objeto": "CREDENCIAMENTO de pessoas jurídicas para a prestação de serviços artístico-culturais à Secretaria Municipal de Cultura e Turismo, especialmente no âmbito do Ciclo 2 da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB).",
+      "valor": "12.000,00",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "2-807-2026",
+        "2-IL-170-2026",
+        "29/10/2026",
+        "29/10/2026",
+        "29/12/2026",
+        "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+        "14 - Prestação de serviços",
+        "2X SOLUÇÕES LTDA",
+        "61.***.***/0001-**",
+        "CREDENCIAMENTO de pessoas jurídicas para a prestação de serviços artístico-culturais à Secretaria Municipal de Cultura e Turismo, especialmente no âmbito do Ciclo 2 da Política Nacional Aldir Blanc de Fomento à Cultura (PNAB).",
+        "12.000,00",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nPREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \nNão existem dados a serem exibidos\n\t\n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nAditivos\n \n1\n\t\n20523917190000 - 2026\n\t\n \n\t\n1802 - FUNDO MUNICIPAL DE CULTURA - 2026\n\t\n2052 - MANUTENÇÃO DAS ATIVIDADES CULTURAIS E TRADICIONAIS DO MUNICÍPIO\n\t\n3390390000 - Outros Serviços de Terceiros - Pessoa Jurídica\n\t\n17190000 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022\n\t\n637.000,00\n\t\n0,00\n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\nDotações\n \t \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "IXFfGQMmOpLeII1u678p",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "2-807-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "29/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "12.000,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "14 - Prestação de serviços",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "2-IL-170-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "12.000,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "29/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "29/12/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "2",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "2X SOLUÇÕES LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "61.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63777",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "2-807-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43859",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63777",
+      "itens": [
+        {
+          "descricao": "100200487 - Banda Formada com no Mínimo 5 Integrantes Músicos",
+          "quantidade": "3",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "4.000,0000",
+          "valor_total": "12.000,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n2-807-2026\n \n1\n\t\n100200487 - Banda Formada com no Mínimo 5 Integrantes Músicos\n\t\n3\n\t\n1\n\t\nS/L\n\t\n4.000,0000\n\t\n12.000,0000\n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 1,
+      "itens_atualizados_em": "2026-11-03T11:43:07-03:00"
+    },
+    {
+      "numero": "2-803-2026",
+      "numero_portal": "2-803-2026",
+      "chave_registro": "2-803-2026#bf74b4b8b092",
+      "licitacao": "2-DLS-061-2026",
+      "data_assinatura": "29/10/2026",
+      "inicio_vigencia": "29/10/2026",
+      "fim_vigencia": "29/04/2027",
+      "orgao": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "14 - Prestação de serviços",
+      "contratado": "SARUE CULTURAL GESTAO E EVENTOS LTDA",
+      "documento_contratado": "63.***.***/0001-**",
+      "objeto": "Contratação de profissional ou empresa especializada em ministrar capacitação voltado a agentes culturais, com ênfase na elaboração de projetos culturais (propostas para a PNAB), gestão de projetos culturais e procedimentos administrativos necessários à participação nos mecanismos de fomento da política nacional Aldir Blanc de fomento à cultura, instituída pela Lei Federal nº 14.399, de 08 de julho de 2022 (prestação de serviço), a fim de atender as necessidades da Secretaria Municipal de Cultura e Turismo.",
+      "valor": "22.000,00",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "2-803-2026",
+        "2-DLS-061-2026",
+        "29/10/2026",
+        "29/10/2026",
+        "29/04/2027",
+        "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+        "14 - Prestação de serviços",
+        "SARUE CULTURAL GESTAO E EVENTOS LTDA",
+        "63.***.***/0001-**",
+        "Contratação de profissional ou empresa especializada em ministrar capacitação voltado a agentes culturais, com ênfase na elaboração de projetos culturais (propostas para a PNAB), gestão de projetos culturais e procedimentos administrativos necessários à participação nos mecanismos de fomento da política nacional Aldir Blanc de fomento à cultura, instituída pela Lei Federal nº 14.399, de 08 de julho de 2022 (prestação de serviço), a fim de atender as necessidades da Secretaria Municipal de Cultura e Turismo.",
+        "22.000,00",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nPREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \nNão existem dados a serem exibidos\n\t\n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nAditivos\n \n1\n\t\n20523917190000 - 2026\n\t\n \n\t\n1802 - FUNDO MUNICIPAL DE CULTURA - 2026\n\t\n2052 - MANUTENÇÃO DAS ATIVIDADES CULTURAIS E TRADICIONAIS DO MUNICÍPIO\n\t\n3390390000 - Outros Serviços de Terceiros - Pessoa Jurídica\n\t\n17190000 - Transferências da Política Nacional Aldir Blanc de Fomento à Cultura - Lei nº 14.399/2022\n\t\n637.000,00\n\t\n0,00\n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\nDotações\n \t \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "mHPH0x0yChqMJhCZTDLM",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "2-803-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "29/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "22.000,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "14 - Prestação de serviços",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "2-DLS-061-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "22.000,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "29/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "29/04/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "6",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "SARUE CULTURAL GESTAO E EVENTOS LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "63.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63779",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "2-803-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43810",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63779",
+      "itens": [
+        {
+          "descricao": "37284 - Prestação de serviços técnicos especializados na realização de curso para agentes culturais",
+          "quantidade": "32",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "562,9500",
+          "valor_total": "18.014,4000"
+        },
+        {
+          "descricao": "9903311963 - Prestação de serviços técnicos especializados no atendimento remoto ao agente cultural",
+          "quantidade": "8",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "498,2000",
+          "valor_total": "3.985,6000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n2-803-2026\n \n1\n\t\n37284 - Prestação de serviços técnicos especializados na realização de curso para agentes culturais\n\t\n32\n\t\n1\n\t\nS/L\n\t\n562,9500\n\t\n18.014,4000\n\n\n2\n\t\n9903311963 - Prestação de serviços técnicos especializados no atendimento remoto ao agente cultural\n\t\n8\n\t\n1\n\t\nS/L\n\t\n498,2000\n\t\n3.985,6000\n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 2,
+      "itens_atualizados_em": "2026-11-03T11:43:11-03:00"
+    },
+    {
+      "numero": "2-802-2026",
+      "numero_portal": "2-802-2026",
+      "chave_registro": "2-802-2026#b6865c9f51d4",
+      "licitacao": "PE-090-2025",
+      "data_assinatura": "28/10/2026",
+      "inicio_vigencia": "29/10/2026",
+      "fim_vigencia": "29/10/2027",
+      "orgao": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "23 - Aquisição e fornecimento de bens de consumo",
+      "contratado": "LEGI DISTRIBUIDORA LTDA",
+      "documento_contratado": "31.***.***/0001-**",
+      "objeto": "Contratação de empresa especializada no fornecimento de SACOS PLÁSTICOS PARA O ACONDICIONAMENTO DE RESÍDUOS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+      "valor": "185.741,19",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "2-802-2026",
+        "PE-090-2025",
+        "28/10/2026",
+        "29/10/2026",
+        "29/10/2027",
+        "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+        "23 - Aquisição e fornecimento de bens de consumo",
+        "LEGI DISTRIBUIDORA LTDA",
+        "31.***.***/0001-**",
+        "Contratação de empresa especializada no fornecimento de SACOS PLÁSTICOS PARA O ACONDICIONAMENTO DE RESÍDUOS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Administração e demais Secretarias.",
+        "185.741,19",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nPREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \nNão existem dados a serem exibidos\n\t\n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nAditivos\n \n1\n\t\n2038301500 - 2025\n\t\n \n\t\n030000 - SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO - 2025\n\t\n2038 - MANUTENÇÃO DA SEC MUN DE ADMINISTRAÇÃO\n\t\n3390300000 - Material de Consumo\n\t\n1500 - Recursos não Vinculados de Impostos PM\n\t\n2.500.000,00\n\t\n0,00\n\n\n2\n\t\n2207301500 - 2025\n\t\n \n\t\n060100 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2025\n\t\n2207 - GESTÃO DAS AÇÕES DO FUNDO MUNICIPAL DE SAÚDE\n\t\n3390300000 - Material de Consumo\n\t\n1500 - Recursos não Vinculados de Impostos - FMS\n\t\n6.000.000,00\n\t\n0,00\n\n\n3\n\t\n2201301600 - 2025\n\t\n \n\t\n060100 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2025\n\t\n2201 - GESTAO DAS AÇÕES - BLOCO ATENÇÃO BÁSICA\n\t\n3390300000 - Material de Consumo\n\t\n1600 - Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Blocode Manutenção das Ações e Serviços Públicos de Saúde\n\t\n1.000.000,00\n\t\n0,00\n\n\n4\n\t\n2202301600 - 2025\n\t\n \n\t\n060100 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2025\n\t\n2202 - GESTÃO DAS AÇÕES - BLOCO MEDIA E ALTA COMPLEXIDADE\n\t\n3390300000 - Material de Consumo\n\t\n1600 - Transferências Fundo a Fundo de Recursos do SUS provenientes do Governo Federal - Blocode Manutenção das Ações e Serviços Públicos de Saúde\n\t\n13.000.000,00\n\t\n0,00\n\n\n5\n\t\n2301301500 - 2025\n\t\n \n\t\n080000 - SECRETARIA MUNICIPAL DE PROMOÇÃO SOCIAL E CULTURA - 2025\n\t\n2301 - MANUTENÇÃO DAS AÇÕES DA SECRETARIA MUNICIPAL DE PROMOÇÃO SOCIAL E CULTURA\n\t\n3390300000 - Material de Consumo\n\t\n1500 - Recursos não vinculados de Impostos FMAS\n\t\n645.000,00\n\t\n0,00\n\n\n6\n\t\n2302301500 - 2025\n\t\n \n\t\n080000 - SECRETARIA MUNICIPAL DE PROMOÇÃO SOCIAL E CULTURA - 2025\n\t\n2302 - MANUTENÇÃO DAS AÇÕES DO CONSELHO TUTELAR\n\t\n3390300000 - Material de Consumo\n\t\n1500 - Recursos não vinculados de Impostos FMAS\n\t\n100.000,00\n\t\n0,00\n\n\n7\n\t\n2303301500 - 2025\n\t\n \n\t\n080000 - SECRETARIA MUNICIPAL DE PROMOÇÃO SOCIAL E CULTURA - 2025\n\t\n2303 - MANUTENÇÃO DAS AÇÕES DO CENTRO DE REFERÊNCIA DE ATENDIMENTO A MULHER - CRAM\n\t\n3390300000 - Material de Consumo\n\t\n1500 - Recursos não vinculados de Impostos FMAS\n\t\n100.000,00\n\t\n0,00\n\n\n8\n\t\n2305301500 - 2025\n\t\n \n\t\n080000 - SECRETARIA MUNICIPAL DE PROMOÇÃO SOCIAL E CULTURA - 2025\n\t\n2305 - MANUTENÇÃO DAS AÇÕES DO CONTROLE SOCIAL - SMPSC\n\t\n3390300000 - Material de Consumo\n\t\n1500 - Recursos não vinculados de Impostos FMAS\n\t\n15.000,00\n\t\n0,00\n\n\n9\n\t\n2318301660 - 2025\n\t\n \n\t\n080100 - FUNDO MUNICIPAL DE ASSISTENCIA SOCIAL - 2025\n\t\n2318 - GESTÃO DESCENTRALIZADA DO PROGRAMA BOLSA FAMÍLIA\n\t\n3390300000 - Material de Consumo\n\t\n1660 - Transferência de Recursos do Fundo Nacional de Assistência Social - FNAS\n\t\n300.000,00\n\t\n0,00\n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\nDotações\n \t \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "bDPSVS951xg8sPU4IJWY",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "2-802-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "28/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "185.741,19",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "23 - Aquisição e fornecimento de bens de consumo",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "PE-090-2025",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "185.741,19",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "29/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "29/10/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "29/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "LEGI DISTRIBUIDORA LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "31.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63772",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "2-802-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43152",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63772",
+      "itens": [
+        {
+          "descricao": "9900513973 - SACO DE LIXO PARA COLETA SELETIVA",
+          "quantidade": "360",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "43,7200",
+          "valor_total": "15.739,2000"
+        },
+        {
+          "descricao": "35638 - SACO DE LIXO 200 L REFORÇADO",
+          "quantidade": "1800",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "45,0600",
+          "valor_total": "81.108,0000"
+        },
+        {
+          "descricao": "35639 - SACO PLÁSTICO PARA LIXO 200 L",
+          "quantidade": "900",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "35,4900",
+          "valor_total": "31.941,0000"
+        },
+        {
+          "descricao": "35640 - SACO PLÁSTICO PARA LIXO 30 L",
+          "quantidade": "198",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "12,3100",
+          "valor_total": "2.437,3800"
+        },
+        {
+          "descricao": "35641 - SACO DE LIXO HOSPITALAR 50 L",
+          "quantidade": "972",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "32,7700",
+          "valor_total": "31.852,4400"
+        },
+        {
+          "descricao": "35642 - SACO DE LIXO",
+          "quantidade": "450",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "13,6800",
+          "valor_total": "6.156,0000"
+        },
+        {
+          "descricao": "35643 - SACO PLÁSTICO PARA LIXO 50L",
+          "quantidade": "585",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "13,9600",
+          "valor_total": "8.166,6000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n2-802-2026\n \n1\n\t\n9900513973 - SACO DE LIXO PARA COLETA SELETIVA\n\t\n360\n\t\n1\n\t\nS/L\n\t\n43,7200\n\t\n15.739,2000\n\n\n2\n\t\n35638 - SACO DE LIXO 200 L REFORÇADO\n\t\n1800\n\t\n1\n\t\nS/L\n\t\n45,0600\n\t\n81.108,0000\n\n\n3\n\t\n35639 - SACO PLÁSTICO PARA LIXO 200 L\n\t\n900\n\t\n1\n\t\nS/L\n\t\n35,4900\n\t\n31.941,0000\n\n\n4\n\t\n35640 - SACO PLÁSTICO PARA LIXO 30 L\n\t\n198\n\t\n1\n\t\nS/L\n\t\n12,3100\n\t\n2.437,3800\n\n\n5\n\t\n35641 - SACO DE LIXO HOSPITALAR 50 L\n\t\n972\n\t\n1\n\t\nS/L\n\t\n32,7700\n\t\n31.852,4400\n\n\n6\n\t\n35642 - SACO DE LIXO\n\t\n450\n\t\n1\n\t\nS/L\n\t\n13,6800\n\t\n6.156,0000\n\n\n7\n\t\n35643 - SACO PLÁSTICO PARA LIXO 50L\n\t\n585\n\t\n1\n\t\nS/L\n\t\n13,9600\n\t\n8.166,6000\n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 7,
+      "itens_atualizados_em": "2026-11-03T11:43:14-03:00"
+    },
+    {
+      "numero": "3-800-2026",
+      "numero_portal": "3-800-2026",
+      "chave_registro": "3-800-2026#d6cb972322f0",
+      "licitacao": "PE-100-2026",
+      "data_assinatura": "27/10/2026",
+      "inicio_vigencia": "28/10/2026",
+      "fim_vigencia": "28/10/2027",
+      "orgao": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "24 - Compra de bens - móveis duráveis",
+      "contratado": "PROMED DISTRIBUIDORA DE MATERIAIS E EQUIPAMENTOS HOSPITALARES E ODONTOLOGICOS LTDA",
+      "documento_contratado": "53.***.***/0001-**",
+      "objeto": "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS ODONTOLÓGICOS E LABORATORIAIS (material permanente), a fim de atender as demandas da SecretariaMunicipal de Saúde.",
+      "valor": "30.900,00",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "3-800-2026",
+        "PE-100-2026",
+        "27/10/2026",
+        "28/10/2026",
+        "28/10/2027",
+        "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+        "24 - Compra de bens - móveis duráveis",
+        "PROMED DISTRIBUIDORA DE MATERIAIS E EQUIPAMENTOS HOSPITALARES E ODONTOLOGICOS LTDA",
+        "53.***.***/0001-**",
+        "Contratação de empresa especializada em fornecimento de EQUIPAMENTOS ODONTOLÓGICOS E LABORATORIAIS (material permanente), a fim de atender as demandas da SecretariaMunicipal de Saúde.",
+        "30.900,00",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nFUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \nNão existem dados a serem exibidos\n\t\n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nAditivos\n \n1\n\t\n22075215001002 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2207 - MANUTENÇÃO DOS SERVIÇOS DO FUNDO MUNICIPAL DE SAÚDE\n\t\n4490520000 - Equipamentos e Material Permanente\n\t\n15001002 - Recursos não Vinculados de Impostos - FMS\n\t\n585.000,00\n\t\n0,00\n\n\n2\n\t\n22015215001002 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2201 - MANUTENÇÃO DAS AÇÕES DA ATENÇÃO PRIMÁRIA EM SAÚDE\n\t\n4490520000 - Equipamentos e Material Permanente\n\t\n15001002 - Recursos não Vinculados de Impostos - FMS\n\t\n325.000,00\n\t\n0,00\n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\nDotações\n \t \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "mA8XOpVWV84R81GOsdw8",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "3-800-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "27/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "30.900,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "24 - Compra de bens - móveis duráveis",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "PE-100-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "30.900,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "28/10/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "28/10/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "PROMED DISTRIBUIDORA DE MATERIAIS E EQUIPAMENTOS HOSPITALARES E ODONTOLOGICOS LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "53.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63770",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "3-800-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43766",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63770",
+      "itens": [
+        {
+          "descricao": "36533 - TURBINA DE ALTA ROTAÇÃO, PUSH BUTTON",
+          "quantidade": "40",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "772,5000",
+          "valor_total": "30.900,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n3-800-2026\n \n1\n\t\n36533 - TURBINA DE ALTA ROTAÇÃO, PUSH BUTTON\n\t\n40\n\t\n1\n\t\nS/L\n\t\n772,5000\n\t\n30.900,0000\n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 1,
+      "itens_atualizados_em": "2026-11-03T11:43:17-03:00"
     }
   ]
 }
