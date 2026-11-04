@@ -391896,6 +391896,1793 @@
       "itens_extraidos": true,
       "itens_quantidade": 1,
       "itens_atualizados_em": "2026-11-03T11:43:17-03:00"
+    },
+    {
+      "numero": "3-814-2026",
+      "numero_portal": "3-814-2026",
+      "chave_registro": "3-814-2026#19df8984e195",
+      "licitacao": "PE-092-2026",
+      "data_assinatura": "04/11/2026",
+      "inicio_vigencia": "05/11/2026",
+      "fim_vigencia": "05/11/2027",
+      "orgao": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "23 - Aquisição e fornecimento de bens de consumo",
+      "contratado": "T2 MEDICAL DISTRIBUIDORA DE MEDICAMENTO LTDA",
+      "documento_contratado": "64.***.***/0001-**",
+      "objeto": "Contratação de empresa especializada em fornecimento de INSUMOS HOSPITALARES E AMBULATORIAIS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "valor": "89.834,00",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "3-814-2026",
+        "PE-092-2026",
+        "04/11/2026",
+        "05/11/2026",
+        "05/11/2027",
+        "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+        "23 - Aquisição e fornecimento de bens de consumo",
+        "T2 MEDICAL DISTRIBUIDORA DE MEDICAMENTO LTDA",
+        "64.***.***/0001-**",
+        "Contratação de empresa especializada em fornecimento de INSUMOS HOSPITALARES E AMBULATORIAIS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Saúde.",
+        "89.834,00",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nFUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nNão existem dados a serem exibidos\n\t\nAditivos\n \n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\n1\n\t\n22073015001002 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2207 - MANUTENÇÃO DOS SERVIÇOS DO FUNDO MUNICIPAL DE SAÚDE\n\t\n3390300000 - Material de Consumo\n\t\n15001002 - Recursos não Vinculados de Impostos - FMS\n\t\n14.020.000,00\n\t\n0,00\n\n\n2\n\t\n22023016000000 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2202 - MANUTENÇÃO DAS AÇÕES DA ATENÇÃO ESPECIALIZADA EM SAÚDE\n\t\n3390300000 - Material de Consumo\n\t\n16000000 - Transf. de Recursos do SUS - Governo Federal - Bloco de Manutenção das ASPS\n\t\n146.000,00\n\t\n0,00\nDotações\n \t \n \n ",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "wwssnsulrmSMuvTgPQ28",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "3-814-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "04/11/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "89.834,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "23 - Aquisição e fornecimento de bens de consumo",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "PE-092-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "89.834,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "05/11/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "05/11/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "T2 MEDICAL DISTRIBUIDORA DE MEDICAMENTO LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "64.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63771",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "3-814-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43765",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63771",
+      "itens": [
+        {
+          "descricao": "9900515633 - AGULHA 25X7: AGULHA HIPODÉRMICA",
+          "quantidade": "1250",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "7,9300",
+          "valor_total": "9.912,5000"
+        },
+        {
+          "descricao": "9900515634 - AGULHA HIPODÉRMICA 25X0,8MM:",
+          "quantidade": "300",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "8,2800",
+          "valor_total": "2.484,0000"
+        },
+        {
+          "descricao": "37395 - FITA ADESIVA HOSPITALAR BRANCA",
+          "quantidade": "80",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "4,2900",
+          "valor_total": "343,2000"
+        },
+        {
+          "descricao": "37397 - MALHA TUBULAR 06CMX15M: ATADURA DE ALGODÃO",
+          "quantidade": "30",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "8,8300",
+          "valor_total": "264,9000"
+        },
+        {
+          "descricao": "37399 - SERINGA DE 1 ML, SEM AGULHA DESCARTÁVEL",
+          "quantidade": "10",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "22,1000",
+          "valor_total": "221,0000"
+        },
+        {
+          "descricao": "9900515639 - SERINGA DE 3ML COM AGULHA 20X5,5",
+          "quantidade": "600",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "28,1200",
+          "valor_total": "16.872,0000"
+        },
+        {
+          "descricao": "9900515640 - SERINGA DE 3ML COM AGULHA 25X7",
+          "quantidade": "360",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "29,2200",
+          "valor_total": "10.519,2000"
+        },
+        {
+          "descricao": "37400 - SERINGA DE SEGURANÇA ESTÉRIL DE 10ML",
+          "quantidade": "8400",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "0,7100",
+          "valor_total": "5.964,0000"
+        },
+        {
+          "descricao": "37401 - SERINGA LUER LOCK 5ML SEM AGULHA",
+          "quantidade": "10",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "27,3700",
+          "valor_total": "273,7000"
+        },
+        {
+          "descricao": "37402 - TUBO SILICONE Nº 204",
+          "quantidade": "10",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "139,9500",
+          "valor_total": "1.399,5000"
+        },
+        {
+          "descricao": "37411 - SCALP DISPOSITIVO",
+          "quantidade": "3000",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "0,2600",
+          "valor_total": "780,0000"
+        },
+        {
+          "descricao": "9900515648 - SERINGA DE 5ML LUER SLIP SEM AGULHA",
+          "quantidade": "170000",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "0,2400",
+          "valor_total": "40.800,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n3-814-2026\n \n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\n1\n\t\n9900515633 - AGULHA 25X7: AGULHA HIPODÉRMICA\n\t\n1250\n\t\n1\n\t\nS/L\n\t\n7,9300\n\t\n9.912,5000\n\n\n2\n\t\n9900515634 - AGULHA HIPODÉRMICA 25X0,8MM:\n\t\n300\n\t\n1\n\t\nS/L\n\t\n8,2800\n\t\n2.484,0000\n\n\n3\n\t\n37395 - FITA ADESIVA HOSPITALAR BRANCA\n\t\n80\n\t\n1\n\t\nS/L\n\t\n4,2900\n\t\n343,2000\n\n\n4\n\t\n37397 - MALHA TUBULAR 06CMX15M: ATADURA DE ALGODÃO\n\t\n30\n\t\n1\n\t\nS/L\n\t\n8,8300\n\t\n264,9000\n\n\n5\n\t\n37399 - SERINGA DE 1 ML, SEM AGULHA DESCARTÁVEL\n\t\n10\n\t\n1\n\t\nS/L\n\t\n22,1000\n\t\n221,0000\n\n\n6\n\t\n9900515639 - SERINGA DE 3ML COM AGULHA 20X5,5\n\t\n600\n\t\n1\n\t\nS/L\n\t\n28,1200\n\t\n16.872,0000\n\n\n7\n\t\n9900515640 - SERINGA DE 3ML COM AGULHA 25X7\n\t\n360\n\t\n1\n\t\nS/L\n\t\n29,2200\n\t\n10.519,2000\n\n\n8\n\t\n37400 - SERINGA DE SEGURANÇA ESTÉRIL DE 10ML\n\t\n8400\n\t\n1\n\t\nS/L\n\t\n0,7100\n\t\n5.964,0000\n\n\n9\n\t\n37401 - SERINGA LUER LOCK 5ML SEM AGULHA\n\t\n10\n\t\n1\n\t\nS/L\n\t\n27,3700\n\t\n273,7000\n\n\n10\n\t\n37402 - TUBO SILICONE Nº 204\n\t\n10\n\t\n1\n\t\nS/L\n\t\n139,9500\n\t\n1.399,5000\n\n\n11\n\t\n37411 - SCALP DISPOSITIVO\n\t\n3000\n\t\n1\n\t\nS/L\n\t\n0,2600\n\t\n780,0000\n\n\n12\n\t\n9900515648 - SERINGA DE 5ML LUER SLIP SEM AGULHA\n\t\n170000\n\t\n1\n\t\nS/L\n\t\n0,2400\n\t\n40.800,0000\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 12,
+      "itens_atualizados_em": "2026-11-04T16:32:16-03:00"
+    },
+    {
+      "numero": "3-810-2026",
+      "numero_portal": "3-810-2026",
+      "chave_registro": "3-810-2026#67a218b2c8a9",
+      "licitacao": "PE-092-2026",
+      "data_assinatura": "03/11/2026",
+      "inicio_vigencia": "04/11/2026",
+      "fim_vigencia": "04/11/2027",
+      "orgao": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "23 - Aquisição e fornecimento de bens de consumo",
+      "contratado": "FEMAP COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+      "documento_contratado": "22.***.***/0001-**",
+      "objeto": "Contratação de empresa especializada em fornecimento de INSUMOS HOSPITALARES E AMBULATORIAIS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "valor": "19.797,40",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "3-810-2026",
+        "PE-092-2026",
+        "03/11/2026",
+        "04/11/2026",
+        "04/11/2027",
+        "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+        "23 - Aquisição e fornecimento de bens de consumo",
+        "FEMAP COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+        "22.***.***/0001-**",
+        "Contratação de empresa especializada em fornecimento de INSUMOS HOSPITALARES E AMBULATORIAIS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Saúde.",
+        "19.797,40",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nFUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nNão existem dados a serem exibidos\n\t\nAditivos\n \n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\n1\n\t\n22073015001002 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2207 - MANUTENÇÃO DOS SERVIÇOS DO FUNDO MUNICIPAL DE SAÚDE\n\t\n3390300000 - Material de Consumo\n\t\n15001002 - Recursos não Vinculados de Impostos - FMS\n\t\n14.020.000,00\n\t\n0,00\n\n\n2\n\t\n22023016000000 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2202 - MANUTENÇÃO DAS AÇÕES DA ATENÇÃO ESPECIALIZADA EM SAÚDE\n\t\n3390300000 - Material de Consumo\n\t\n16000000 - Transf. de Recursos do SUS - Governo Federal - Bloco de Manutenção das ASPS\n\t\n146.000,00\n\t\n0,00\nDotações\n \t \n \n ",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "FnNH9QZh0AgiUxET3Ty4",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "3-810-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "03/11/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "19.797,40",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "23 - Aquisição e fornecimento de bens de consumo",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "PE-092-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "19.797,40",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "04/11/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "04/11/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "FEMAP COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "22.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63755",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "3-810-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43765",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63755",
+      "itens": [
+        {
+          "descricao": "9900515632 - ABAIXADOR DE LINGUA",
+          "quantidade": "1100",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "5,7200",
+          "valor_total": "6.292,0000"
+        },
+        {
+          "descricao": "37394 - ALMOTOLIA AMBAR 250ML",
+          "quantidade": "1055",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "4,2600",
+          "valor_total": "4.494,3000"
+        },
+        {
+          "descricao": "37396 - FIXADOR DE LÂMINA 100ML (FIXADOR CITOLÓGICO)",
+          "quantidade": "520",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "10,3800",
+          "valor_total": "5.397,6000"
+        },
+        {
+          "descricao": "9900515641 - TRAQUEIA PARA VENTILADOR DE TRANSPORTE",
+          "quantidade": "10",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "168,0000",
+          "valor_total": "1.680,0000"
+        },
+        {
+          "descricao": "37408 - LANCETA PARA LANCETADOR 30G",
+          "quantidade": "50",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "8,6700",
+          "valor_total": "433,5000"
+        },
+        {
+          "descricao": "37412 - ATADURA GESSADA 5CM, FAIXA DE MATERIAL",
+          "quantidade": "30",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "50,0000",
+          "valor_total": "1.500,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n3-810-2026\n \n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\n1\n\t\n9900515632 - ABAIXADOR DE LINGUA\n\t\n1100\n\t\n1\n\t\nS/L\n\t\n5,7200\n\t\n6.292,0000\n\n\n2\n\t\n37394 - ALMOTOLIA AMBAR 250ML\n\t\n1055\n\t\n1\n\t\nS/L\n\t\n4,2600\n\t\n4.494,3000\n\n\n3\n\t\n37396 - FIXADOR DE LÂMINA 100ML (FIXADOR CITOLÓGICO)\n\t\n520\n\t\n1\n\t\nS/L\n\t\n10,3800\n\t\n5.397,6000\n\n\n4\n\t\n9900515641 - TRAQUEIA PARA VENTILADOR DE TRANSPORTE\n\t\n10\n\t\n1\n\t\nS/L\n\t\n168,0000\n\t\n1.680,0000\n\n\n5\n\t\n37408 - LANCETA PARA LANCETADOR 30G\n\t\n50\n\t\n1\n\t\nS/L\n\t\n8,6700\n\t\n433,5000\n\n\n6\n\t\n37412 - ATADURA GESSADA 5CM, FAIXA DE MATERIAL\n\t\n30\n\t\n1\n\t\nS/L\n\t\n50,0000\n\t\n1.500,0000\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 6,
+      "itens_atualizados_em": "2026-11-04T16:32:19-03:00"
+    },
+    {
+      "numero": "3-809-2026",
+      "numero_portal": "3-809-2026",
+      "chave_registro": "3-809-2026#f94e53e6935a",
+      "licitacao": "PE-092-2026",
+      "data_assinatura": "03/11/2026",
+      "inicio_vigencia": "04/11/2026",
+      "fim_vigencia": "04/11/2027",
+      "orgao": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "23 - Aquisição e fornecimento de bens de consumo",
+      "contratado": "ODONTO TALITA LTDA",
+      "documento_contratado": "05.***.***/0001-**",
+      "objeto": "Contratação de empresa especializada em fornecimento de INSUMOS HOSPITALARES E AMBULATORIAIS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "valor": "11.759,40",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "3-809-2026",
+        "PE-092-2026",
+        "03/11/2026",
+        "04/11/2026",
+        "04/11/2027",
+        "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+        "23 - Aquisição e fornecimento de bens de consumo",
+        "ODONTO TALITA LTDA",
+        "05.***.***/0001-**",
+        "Contratação de empresa especializada em fornecimento de INSUMOS HOSPITALARES E AMBULATORIAIS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Saúde.",
+        "11.759,40",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nFUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nNão existem dados a serem exibidos\n\t\nAditivos\n \n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\n1\n\t\n22073015001002 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2207 - MANUTENÇÃO DOS SERVIÇOS DO FUNDO MUNICIPAL DE SAÚDE\n\t\n3390300000 - Material de Consumo\n\t\n15001002 - Recursos não Vinculados de Impostos - FMS\n\t\n14.020.000,00\n\t\n0,00\n\n\n2\n\t\n22023016000000 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2202 - MANUTENÇÃO DAS AÇÕES DA ATENÇÃO ESPECIALIZADA EM SAÚDE\n\t\n3390300000 - Material de Consumo\n\t\n16000000 - Transf. de Recursos do SUS - Governo Federal - Bloco de Manutenção das ASPS\n\t\n146.000,00\n\t\n0,00\nDotações\n \t \n \n ",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "ICrHslmN1fEzNtGoB3MR",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "3-809-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "03/11/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "11.759,40",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "23 - Aquisição e fornecimento de bens de consumo",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "PE-092-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "11.759,40",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "04/11/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "04/11/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "ODONTO TALITA LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "05.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63762",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "3-809-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43765",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63762",
+      "itens": [
+        {
+          "descricao": "9900515635 - MÁSCARA ADULTO PARA NEBULIZAÇÃO",
+          "quantidade": "30",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "16,2300",
+          "valor_total": "486,9000"
+        },
+        {
+          "descricao": "9900515643 - LÂMINA DE BISTURI NÚMERO 11",
+          "quantidade": "100",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "28,7800",
+          "valor_total": "2.878,0000"
+        },
+        {
+          "descricao": "37405 - LÂMINA DE BISTURI NÚMERO 15",
+          "quantidade": "150",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "33,9300",
+          "valor_total": "5.089,5000"
+        },
+        {
+          "descricao": "9900515645 - LÂMINA DE BISTURI NÚMERO 24",
+          "quantidade": "100",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "33,0500",
+          "valor_total": "3.305,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n3-809-2026\n \n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\n1\n\t\n9900515635 - MÁSCARA ADULTO PARA NEBULIZAÇÃO\n\t\n30\n\t\n1\n\t\nS/L\n\t\n16,2300\n\t\n486,9000\n\n\n2\n\t\n9900515643 - LÂMINA DE BISTURI NÚMERO 11\n\t\n100\n\t\n1\n\t\nS/L\n\t\n28,7800\n\t\n2.878,0000\n\n\n3\n\t\n37405 - LÂMINA DE BISTURI NÚMERO 15\n\t\n150\n\t\n1\n\t\nS/L\n\t\n33,9300\n\t\n5.089,5000\n\n\n4\n\t\n9900515645 - LÂMINA DE BISTURI NÚMERO 24\n\t\n100\n\t\n1\n\t\nS/L\n\t\n33,0500\n\t\n3.305,0000\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 4,
+      "itens_atualizados_em": "2026-11-04T16:32:22-03:00"
+    },
+    {
+      "numero": "3-813-2026",
+      "numero_portal": "3-813-2026",
+      "chave_registro": "3-813-2026#c63f6a370a9d",
+      "licitacao": "PE-092-2026",
+      "data_assinatura": "03/11/2026",
+      "inicio_vigencia": "04/11/2026",
+      "fim_vigencia": "04/11/2027",
+      "orgao": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "23 - Aquisição e fornecimento de bens de consumo",
+      "contratado": "VIVRE COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+      "documento_contratado": "15.***.***/0001-**",
+      "objeto": "Contratação de empresa especializada em fornecimento de INSUMOS HOSPITALARES E AMBULATORIAIS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "valor": "68.625,00",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "3-813-2026",
+        "PE-092-2026",
+        "03/11/2026",
+        "04/11/2026",
+        "04/11/2027",
+        "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+        "23 - Aquisição e fornecimento de bens de consumo",
+        "VIVRE COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+        "15.***.***/0001-**",
+        "Contratação de empresa especializada em fornecimento de INSUMOS HOSPITALARES E AMBULATORIAIS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Saúde.",
+        "68.625,00",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nFUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nNão existem dados a serem exibidos\n\t\nAditivos\n \n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\n1\n\t\n22073015001002 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2207 - MANUTENÇÃO DOS SERVIÇOS DO FUNDO MUNICIPAL DE SAÚDE\n\t\n3390300000 - Material de Consumo\n\t\n15001002 - Recursos não Vinculados de Impostos - FMS\n\t\n14.020.000,00\n\t\n0,00\n\n\n2\n\t\n22023016000000 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2202 - MANUTENÇÃO DAS AÇÕES DA ATENÇÃO ESPECIALIZADA EM SAÚDE\n\t\n3390300000 - Material de Consumo\n\t\n16000000 - Transf. de Recursos do SUS - Governo Federal - Bloco de Manutenção das ASPS\n\t\n146.000,00\n\t\n0,00\nDotações\n \t \n \n ",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "EePsnjXTYCqV5RgyLkqq",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "3-813-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "03/11/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "68.625,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "23 - Aquisição e fornecimento de bens de consumo",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "PE-092-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "68.625,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "04/11/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "04/11/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "VIVRE COMERCIO DE PRODUTOS HOSPITALARES LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "15.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63773",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "3-813-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43765",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63773",
+      "itens": [
+        {
+          "descricao": "37410 - EQUIPO MULTIVIAS COM CLAMP 2 VIAS",
+          "quantidade": "112500",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "0,6100",
+          "valor_total": "68.625,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n3-813-2026\n \n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\n1\n\t\n37410 - EQUIPO MULTIVIAS COM CLAMP 2 VIAS\n\t\n112500\n\t\n1\n\t\nS/L\n\t\n0,6100\n\t\n68.625,0000\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 1,
+      "itens_atualizados_em": "2026-11-04T16:32:25-03:00"
+    },
+    {
+      "numero": "3-812-2026",
+      "numero_portal": "3-812-2026",
+      "chave_registro": "3-812-2026#4ef315564334",
+      "licitacao": "PE-092-2026",
+      "data_assinatura": "03/11/2026",
+      "inicio_vigencia": "04/11/2026",
+      "fim_vigencia": "04/11/2027",
+      "orgao": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+      "tipo_contrato": "23 - Aquisição e fornecimento de bens de consumo",
+      "contratado": "TOPDESC INDUSTRIA E COMERCIO DE ACESSORIOS PARA SEGURANCA LTDA",
+      "documento_contratado": "40.***.***/0001-**",
+      "objeto": "Contratação de empresa especializada em fornecimento de INSUMOS HOSPITALARES E AMBULATORIAIS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Saúde.",
+      "valor": "5.100,00",
+      "aditivos": "0",
+      "situacao": "CONCLUIDO",
+      "emergencial": "Não",
+      "linha_grade": [
+        "1",
+        "3-812-2026",
+        "PE-092-2026",
+        "03/11/2026",
+        "04/11/2026",
+        "04/11/2027",
+        "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+        "23 - Aquisição e fornecimento de bens de consumo",
+        "TOPDESC INDUSTRIA E COMERCIO DE ACESSORIOS PARA SEGURANCA LTDA",
+        "40.***.***/0001-**",
+        "Contratação de empresa especializada em fornecimento de INSUMOS HOSPITALARES E AMBULATORIAIS (material de consumo), a fim de atender as demandas da Secretaria Municipal de Saúde.",
+        "5.100,00",
+        "0",
+        "",
+        "",
+        "",
+        "",
+        "CONCLUIDO",
+        "Não"
+      ],
+      "detalhes_texto": "DETALHES DO CONTRATO\nFUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS\nTeixeira de Freitas-BA\nNúmero\nData Celebração\nStatus\nValor do Contrato\nÓrgão\nValores dos Aditivos\nTipo Contrato\nNº da Lic\nValor Total Contrato\nDesastre\nLocal da Execução\nNº Proc. Adm\nVeículo de Publicação\nData Início\nData Fim\nPrazo (Meses)\nData Publicação\nVeículo de Publicação\nFavorecido / Contratado\nCPF\nObjeto do Contrato\n \n \n \nNúmero do Aditivo\nData da Celebração\nData da Publicação\nData Início Execução\nData do Término\nValor\nSituação\nAnexo(s)\nObjetivo\nNão existem dados a serem exibidos\n\t\nAditivos\n \n \n \nCód Dotação\nSubelemento\nUnidade\nProjeto/Atividade\nElem. de Despesa\nFonte de Recursos\nValor da Dotação\nValor Utilizado no Contrato\n1\n\t\n22073015001002 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2207 - MANUTENÇÃO DOS SERVIÇOS DO FUNDO MUNICIPAL DE SAÚDE\n\t\n3390300000 - Material de Consumo\n\t\n15001002 - Recursos não Vinculados de Impostos - FMS\n\t\n14.020.000,00\n\t\n0,00\n\n\n2\n\t\n22023016000000 - 2026\n\t\n \n\t\n0802 - FUNDO MUNICIPAL DE SAUDE DE TEIXEIRA DE FREITAS - 2026\n\t\n2202 - MANUTENÇÃO DAS AÇÕES DA ATENÇÃO ESPECIALIZADA EM SAÚDE\n\t\n3390300000 - Material de Consumo\n\t\n16000000 - Transf. de Recursos do SUS - Governo Federal - Bloco de Manutenção das ASPS\n\t\n146.000,00\n\t\n0,00\nDotações\n \t \n \n ",
+      "detalhes_campos": [
+        {
+          "id": "",
+          "nome": "sys",
+          "valor": "PTP",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "formID",
+          "valor": "8825",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "action",
+          "valor": "form",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "param",
+          "valor": "post",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WEBRUN-CSRFTOKEN",
+          "valor": "omtaesxv99KfKmPKm4HA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "goto",
+          "valor": "1",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "invisibleFields",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureName",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "storedProcedureParams",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143919",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143920",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143918",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1143921",
+          "valor": "Teixeira de Freitas-BA",
+          "tipo": "hidden"
+        },
+        {
+          "id": "WFRInput1143939",
+          "nome": "WFRInput1143939",
+          "valor": "3-812-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143940",
+          "nome": "WFRInput1143940",
+          "valor": "03/11/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143941",
+          "nome": "WFRInput1143941",
+          "valor": "CONCLUIDO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143942",
+          "nome": "WFRInput1143942",
+          "valor": "5.100,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143943",
+          "nome": "WFRInput1143943",
+          "valor": "FUNDO MUNICIPAL DE SAÚDE DE TEIXEIRA DE FREITAS",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143944",
+          "nome": "WFRInput1143944",
+          "valor": "0,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143945",
+          "nome": "WFRInput1143945",
+          "valor": "23 - Aquisição e fornecimento de bens de consumo",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143946",
+          "nome": "WFRInput1143946",
+          "valor": "PE-092-2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143947",
+          "nome": "WFRInput1143947",
+          "valor": "5.100,00",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143948",
+          "nome": "WFRInput1143948",
+          "valor": "Não",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143949",
+          "nome": "WFRInput1143949",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143950",
+          "nome": "WFRInput1143950",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143951",
+          "nome": "WFRInput1143951",
+          "valor": "04/11/2026",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143952",
+          "nome": "WFRInput1143952",
+          "valor": "04/11/2027",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143953",
+          "nome": "WFRInput1143953",
+          "valor": "12",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143954",
+          "nome": "WFRInput1143954",
+          "valor": "",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143955",
+          "nome": "WFRInput1143955",
+          "valor": "DIARIO  OFICIAL DO MUNICIPIO",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143956",
+          "nome": "WFRInput1143956",
+          "valor": "TOPDESC INDUSTRIA E COMERCIO DE ACESSORIOS PARA SEGURANCA LTDA",
+          "tipo": "text"
+        },
+        {
+          "id": "WFRInput1143957",
+          "nome": "WFRInput1143957",
+          "valor": "40.***.***/0001-**",
+          "tipo": "text"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput377065612",
+          "valor": "63783",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput694657792",
+          "valor": "3-812-2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput447225480",
+          "valor": "2026",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1799559694",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput415706965",
+          "valor": "<strong>CNPJ:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput92014077",
+          "valor": "<strong>Fundamento Legal:</strong>",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1446625673",
+          "valor": "",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1699479028",
+          "valor": "PREFEITURA MUNICIPAL DE TEIXEIRA DE FREITAS",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput2113523652",
+          "valor": "AVENIDA MARECHAL CASTELO BRANCO, 145",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1230726748",
+          "valor": "CENTRO",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput988951983",
+          "valor": "<img src=\"openImageStreamFromGalery.do?sys=PTP&amp;formID=9745&amp;guid={DC6B3C55-0731-4A66-AE1E-E9EE03C1EF52}\" height=\"12\" width=\"14\" border=\"0\">",
+          "tipo": "hidden"
+        },
+        {
+          "id": "",
+          "nome": "WFRInput1011143712",
+          "valor": "43765",
+          "tipo": "hidden"
+        }
+      ],
+      "chave_portal": "63783",
+      "itens": [
+        {
+          "descricao": "37398 - MASCARA DESCARTAVEL (CIRÚRGICA)",
+          "quantidade": "1000",
+          "periodicidade": "1",
+          "lote": "S/L",
+          "valor_unitario": "5,1000",
+          "valor_total": "5.100,0000"
+        }
+      ],
+      "itens_texto": " Número Do Contrato:\n3-812-2026\n \n \n \nProduto\nQuantidade\nPeriodicidade\nLote\nPreço Unitário\nTotal\n1\n\t\n37398 - MASCARA DESCARTAVEL (CIRÚRGICA)\n\t\n1000\n\t\n1\n\t\nS/L\n\t\n5,1000\n\t\n5.100,0000\nItens:\n \t \n \n ",
+      "itens_extraidos": true,
+      "itens_quantidade": 1,
+      "itens_atualizados_em": "2026-11-04T16:32:28-03:00"
     }
   ]
 }
